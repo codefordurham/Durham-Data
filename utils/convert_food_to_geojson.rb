@@ -30,10 +30,16 @@ results.each_with_index do |location, index|
       :coordinates => [location['geo_results']['geometry']['location']['lng'], location['geo_results']['geometry']['location']['lat']]
     },
     :properties => {
-      :title => location['premise_name_titlecase'],
-      #:description => description
+        :address => {}
     }
   }
+
+  venue[:properties][:title] = location['premise_name_titlecase']
+  venue[:properties][:address][:address_one] = location['premise_address1'].titlecase unless location['premise_address1'] == "0"
+  venue[:properties][:address][:address_two] = location['premise_address2'].titlecase unless location['premise_address2'] == "0"
+  venue[:properties][:address][:city] = location['premise_city'].titlecase unless location['premise_city'] == "0"
+  venue[:properties][:address][:state] = location['premise_state'].upcase unless location['premise_state'] == "0"
+  venue[:properties][:address][:zip] = location['premise_zip'] unless location['premise_zip'] == 0
 
   marker_properties = {
       :'marker-color' => '#3698d4', # change color based on rating at some point?
