@@ -21,7 +21,7 @@ results.each_with_index do |location, index|
   end
 
   description = "<strong>Score:</strong> #{location['final_score_sum']}"
-  description << "<br><strong>Comments:</strong> #{location['comments']}" unless location['comments'].nil?
+  description << "<br><strong>Comments:</strong> #{location['comments']}" unless location['comments'].to_i == 0
 
   venue = {
     :type => "Feature",
