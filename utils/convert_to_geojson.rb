@@ -10,6 +10,8 @@ geo_json = {
     :features => []
   }
 
+food_types = []
+
 results.each_with_index do |location, index|
   puts location['premise_name_titlecase']
 
@@ -26,11 +28,12 @@ results.each_with_index do |location, index|
   #     :type => "Point",
   #     :coordinates => [location['geo_results']['geometry']['location']['lng'], location['geo_results']['geometry']['location']['lat']]
   #   }
+
   geo_json[:features] << venue
 end
 
 pp geo_json.to_json
 
-File.open("../Restaurants/json/geo-json/export-geojson.json","w") do |f|
+File.open("../Restaurants/json/geo-json/food-geojson.json","w") do |f|
   f.write(geo_json.to_json)
 end
