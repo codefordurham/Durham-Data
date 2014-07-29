@@ -1,0 +1,734 @@
+{
+  "geometryType": "esriGeometryPoint", 
+  "features": [
+    {
+      "geometry": {
+        "y": 880637.0679280013, 
+        "x": 2036569.6229280084
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/mangum-elementary-school", 
+        "School": "Mangum", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 1, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "9008 Quail Roost Road Durham NC 27703", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 854888.9979279935, 
+        "x": 2040430.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/little-river-elementary-school", 
+        "School": "Little River", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 2, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2315 Snow Hill Road Durham NC 27712", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 811254.8179280013, 
+        "x": 2033203.9929279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/burton-magnet-elementary-school", 
+        "School": "Burton", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 3, 
+        "MAGNET06": "Magnet", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "1500 Mathison Street Durham NC 27701", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 811014.937928006, 
+        "x": 2027906.9929279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/cc-spaulding-elementary-school", 
+        "School": "C.C. Spaulding", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 4, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "1531 S Roxboro St. Durham NC 27707", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 808603.3779280037, 
+        "x": 2034373.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/rn-harris-elementary-school", 
+        "School": "R.N. Harris", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 7, 
+        "MAGNET06": "Magnet", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "1520 Cooper Street Durham NC 27703", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 807241.3779280037, 
+        "x": 2018313.2429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/hope-valley-elementary-school", 
+        "School": "Hope Valley", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 8, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "3005 Dixon Road Durham NC 27707", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 805992.2479279935, 
+        "x": 2027958.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/fayetteville-street-elementary-school", 
+        "School": "Fayetteville St", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 10, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2905 Fayetteville Street Durham NC 27707", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 797192.2479279935, 
+        "x": 2048030.2429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/bethesda-elementary-school", 
+        "School": "Bethesda", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 13, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2009 South Miami Boulevard Durham NC 27703", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 794357.187928006, 
+        "x": 2027136.4929279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/pearsontown-elementary-school", 
+        "School": "Pearsontown", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 14, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Year-Round", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": "Year-Round", 
+        "ADDRESS": "4915 Barbee Road Durham NC 27713", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 793052.1279280037, 
+        "x": 2022571.3729280084
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/southwest-elementary-school", 
+        "School": "Southwest", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 15, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2320 Cook Road Durham NC 27713", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 779444.1279280037, 
+        "x": 2027786.2429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/parkwood-elementary-school", 
+        "School": "Parkwood", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 18, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "5207 Revere Road Durham NC 27713", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 811716.4579280019, 
+        "x": 2053756.7329280078
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/oak-grove-elementary-school", 
+        "School": "Oak Grove", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 19, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "3810 Wake Forest Road Durham NC 27703", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 792603.2979280055, 
+        "x": 2001867.4429280013
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/creekside-elementary-school", 
+        "School": "Creekside", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 21, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "5321 Ephesus Church Road Durham NC 27707", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 803050.7279279977, 
+        "x": 2028639.762928009
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/wg-pearson-elementary-school", 
+        "School": "W.G. Pearson", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 22, 
+        "MAGNET06": "Magnet", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "3501 Fayetteville Street Durham NC 27701", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 850016.3179280013, 
+        "x": 2025851.9929279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/eno-valley-elementary-school", 
+        "School": "Eno Valley", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 25, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "117 Milton Road Durham NC 27712", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 846508.3779280037, 
+        "x": 2021651.2429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/easley-year-round-elementary-school", 
+        "School": "Easley", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 26, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Year-Round", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": "Year-Round", 
+        "ADDRESS": "302 Lebanon Circle Durham NC 27712", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 839393.3179280013, 
+        "x": 2027650.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/holt-elementary-school", 
+        "School": "Holt", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 28, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Year-Round", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": "Year-Round", 
+        "ADDRESS": "4019 Holt School Road Durham NC 27704", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 838070.187928006, 
+        "x": 2019775.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/hillandale-elementary-school", 
+        "School": "Hillandale", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 29, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2730 Hillandale Road Durham NC 27705", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 829453.187928006, 
+        "x": 2047892.6229280084
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/glenn-elementary-school", 
+        "School": "Glenn", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 30, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2415 E Geer Street Durham NC 27704", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 825898.3779280037, 
+        "x": 2030483.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/club-boulevard-magnet-elementary-school", 
+        "School": "Club Blvd", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 32, 
+        "MAGNET06": "Magnet", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "400 West Club Boulevard Durham NC 27704", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 823721.5679280013, 
+        "x": 2022883.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/ek-powe-elementary-school", 
+        "School": "E.K. Powe", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 33, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "913 Ninth Street Durham NC 27705", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 821940.7479279935, 
+        "x": 2026464.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/george-watts-montessori-school", 
+        "School": "George Watts", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 34, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "700 Watts Street Durham NC 27701", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 821057.7479279935, 
+        "x": 2043740.9929279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/merrick-moore-elementary-school", 
+        "School": "Merrick-Moore", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 35, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2325 Cheek Road Durham NC 27704", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 815653.2479279935, 
+        "x": 2034042.4929279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/eastway-elementary-school", 
+        "School": "Eastway", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 38, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "610 Alston Avenue Durham NC 27701", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 814866.937928006, 
+        "x": 2002398.2429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/forest-view-elementary-school", 
+        "School": "Forest View", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 39, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "3007 Mt. Sinai Road Durham NC 27705", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 814846.6279280037, 
+        "x": 2025510.3729280084
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/morehead-montessori-school", 
+        "School": "Morehead", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 40, 
+        "MAGNET06": "Magnet", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "909 Cobb Street Durham NC 27707", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 813704.687928006, 
+        "x": 2037707.2429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/ye-smith-elementary-school", 
+        "School": "Y.E. Smith", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 41, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2410 East Main Street Durham NC 27703", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 813021.6279280037, 
+        "x": 2019062.9929279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/lakewood-elementary-school", 
+        "School": "Lakewood", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 42, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2520 Vesson Avenue Durham NC 27707", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 802873.4779279977, 
+        "x": 2054714.862928003
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/elementary-school-list/spring-valley-elementary", 
+        "School": "Spring Valley", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 43, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2051 Northern Durham Parkway Durham, NC 27703", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 839756.7679280043, 
+        "x": 2037980.7029280066
+      }, 
+      "attributes": {
+        "WEBSITE": "http://sandyridge.dpsnc.net/", 
+        "School": "Sandy Ridge", 
+        "FUTUREDATE": "August 25, 2011", 
+        "OBJECTID": 45, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": "Opening in Fall 2011", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Elementary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "1417 Old Oxford Rd  Durham, NC 27704", 
+        "TYPE3": "Elementary", 
+        "TYPE2": "Elementary School"
+      }
+    }
+  ], 
+  "fieldAliases": {
+    "WEBSITE": "WEBSITE", 
+    "School": "School", 
+    "FUTUREDATE": "FUTUREDATE", 
+    "OBJECTID": "OBJECTID", 
+    "MAGNET06": "MAGNET06", 
+    "FUTURESCHO": "FUTURESCHO", 
+    "CHOICE": "CHOICE", 
+    "MAGNET": "MAGNET", 
+    "TYPE_": "TYPE_", 
+    "YEARROUND": "YEARROUND", 
+    "ADDRESS": "ADDRESS", 
+    "TYPE3": "TYPE3", 
+    "TYPE2": "TYPE2"
+  }, 
+  "fields": [
+    {
+      "alias": "OBJECTID", 
+      "type": "esriFieldTypeOID", 
+      "name": "OBJECTID"
+    }, 
+    {
+      "alias": "TYPE_", 
+      "length": 16, 
+      "type": "esriFieldTypeString", 
+      "name": "TYPE_"
+    }, 
+    {
+      "alias": "TYPE2", 
+      "length": 40, 
+      "type": "esriFieldTypeString", 
+      "name": "TYPE2"
+    }, 
+    {
+      "alias": "MAGNET", 
+      "length": 20, 
+      "type": "esriFieldTypeString", 
+      "name": "MAGNET"
+    }, 
+    {
+      "alias": "TYPE3", 
+      "length": 50, 
+      "type": "esriFieldTypeString", 
+      "name": "TYPE3"
+    }, 
+    {
+      "alias": "YEARROUND", 
+      "length": 20, 
+      "type": "esriFieldTypeString", 
+      "name": "YEARROUND"
+    }, 
+    {
+      "alias": "CHOICE", 
+      "length": 50, 
+      "type": "esriFieldTypeString", 
+      "name": "CHOICE"
+    }, 
+    {
+      "alias": "MAGNET06", 
+      "length": 20, 
+      "type": "esriFieldTypeString", 
+      "name": "MAGNET06"
+    }, 
+    {
+      "alias": "FUTURESCHO", 
+      "length": 30, 
+      "type": "esriFieldTypeString", 
+      "name": "FUTURESCHO"
+    }, 
+    {
+      "alias": "FUTUREDATE", 
+      "length": 25, 
+      "type": "esriFieldTypeString", 
+      "name": "FUTUREDATE"
+    }, 
+    {
+      "alias": "ADDRESS", 
+      "length": 50, 
+      "type": "esriFieldTypeString", 
+      "name": "ADDRESS"
+    }, 
+    {
+      "alias": "WEBSITE", 
+      "length": 150, 
+      "type": "esriFieldTypeString", 
+      "name": "WEBSITE"
+    }, 
+    {
+      "alias": "School", 
+      "length": 50, 
+      "type": "esriFieldTypeString", 
+      "name": "School"
+    }
+  ], 
+  "displayFieldName": "SCHOOL", 
+  "spatialReference": {
+    "wkid": 102719, 
+    "latestWkid": 2264
+  }
+}

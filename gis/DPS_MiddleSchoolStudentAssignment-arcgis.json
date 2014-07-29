@@ -1,0 +1,356 @@
+{
+  "geometryType": "esriGeometryPoint", 
+  "features": [
+    {
+      "geometry": {
+        "y": 810848.437928006, 
+        "x": 2064488.3729280084
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/middle-school-list/neal-middle-school", 
+        "School": "Neal", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 5, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Middle", 
+        "YEARROUND": " ", 
+        "ADDRESS": "201 Baptist Road Durham NC 27704", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 809103.8179280013, 
+        "x": 2019249.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/middle-school-list/rogers-herr-middle-school", 
+        "School": "Rogers-Herr", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 6, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Year-Round", 
+        "MAGNET": " ", 
+        "TYPE_": "Middle", 
+        "YEARROUND": "Year-Round", 
+        "ADDRESS": "911 Cornwallis Road Durham NC 27707", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 806381.5679280013, 
+        "x": 2029713.4929279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/middle-school-list/shepard-middle-school", 
+        "School": "Shepard", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 9, 
+        "MAGNET06": "Magnet", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Middle", 
+        "YEARROUND": " ", 
+        "ADDRESS": "2401 Dakota Street Durham NC 27707", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 798864.437928006, 
+        "x": 2005680.3729280084
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/middle-school-list/githens-middle-school", 
+        "School": "Githens", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 12, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Middle", 
+        "YEARROUND": " ", 
+        "ADDRESS": "4800 Chapel Hill Road Durham NC 27707", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 784162.1279280037, 
+        "x": 2032236.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/middle-school-list/lowe-s-grove-middle-school", 
+        "School": "Lowes Grove", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 17, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Middle", 
+        "YEARROUND": " ", 
+        "ADDRESS": "4418 South Alston Avenue Durham NC 27713", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 832757.2279279977, 
+        "x": 2036029.1529280096
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/secondary-school-list/lakeview", 
+        "School": "Lakeview", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 20, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Alternative", 
+        "MAGNET": " ", 
+        "TYPE_": "Secondary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "3507 Dearborn Drive Durham NC 27704", 
+        "TYPE3": "Middle & High", 
+        "TYPE2": "Secondary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 850773.3779280037, 
+        "x": 2024300.2429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/middle-school-list/carrington-middle-school", 
+        "School": "Carrington", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 24, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Middle", 
+        "YEARROUND": " ", 
+        "ADDRESS": "227 Milton Road Durham NC 27712", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 827877.5679280013, 
+        "x": 2027008.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/middle-school-list/brogden-middle-school", 
+        "School": "Brogden", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 31, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Middle", 
+        "YEARROUND": " ", 
+        "ADDRESS": "1001 Leon Street Durham NC 27704", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 820033.687928006, 
+        "x": 2027507.7429279983
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/secondary-school-list/durham-school-of-the-arts", 
+        "School": "Durham School of the Arts", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 36, 
+        "MAGNET06": "Magnet", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Secondary", 
+        "YEARROUND": " ", 
+        "ADDRESS": "400 North Duke Street Durham NC 27701", 
+        "TYPE3": "Middle & High", 
+        "TYPE2": "Secondary School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 812535.9479279965, 
+        "x": 2030604.0329280049
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/middle-school-list/w.g.-pearson-magnet-middle-school", 
+        "School": "W G Pearson", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 44, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Middle", 
+        "YEARROUND": " ", 
+        "ADDRESS": "600 E. Umstead St. Durham NC 27701", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 845182.437928006, 
+        "x": 2052595.6229280084
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/secondary-school-list/scs", 
+        "School": "The School for Creative Studies", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 46, 
+        "MAGNET06": "Magnet", 
+        "FUTURESCHO": " ", 
+        "CHOICE": "Magnet", 
+        "MAGNET": "Magnet", 
+        "TYPE_": "Middle", 
+        "YEARROUND": "Year-Round", 
+        "ADDRESS": "5001 Red Mill Road Durham NC 27704", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }, 
+    {
+      "geometry": {
+        "y": 858884.0079279989, 
+        "x": 2032977.5929280072
+      }, 
+      "attributes": {
+        "WEBSITE": "http://www.dpsnc.net/schools/school-profiles/middle-school-list/lucas-middle-school", 
+        "School": "Lucas", 
+        "FUTUREDATE": " ", 
+        "OBJECTID": 47, 
+        "MAGNET06": " ", 
+        "FUTURESCHO": " ", 
+        "CHOICE": " ", 
+        "MAGNET": " ", 
+        "TYPE_": "Middle", 
+        "YEARROUND": " ", 
+        "ADDRESS": "923 Snow Hill Rd", 
+        "TYPE3": "Middle", 
+        "TYPE2": "Middle School"
+      }
+    }
+  ], 
+  "fieldAliases": {
+    "WEBSITE": "WEBSITE", 
+    "School": "School", 
+    "FUTUREDATE": "FUTUREDATE", 
+    "OBJECTID": "OBJECTID", 
+    "MAGNET06": "MAGNET06", 
+    "FUTURESCHO": "FUTURESCHO", 
+    "CHOICE": "CHOICE", 
+    "MAGNET": "MAGNET", 
+    "TYPE_": "TYPE_", 
+    "YEARROUND": "YEARROUND", 
+    "ADDRESS": "ADDRESS", 
+    "TYPE3": "TYPE3", 
+    "TYPE2": "TYPE2"
+  }, 
+  "fields": [
+    {
+      "alias": "OBJECTID", 
+      "type": "esriFieldTypeOID", 
+      "name": "OBJECTID"
+    }, 
+    {
+      "alias": "TYPE_", 
+      "length": 16, 
+      "type": "esriFieldTypeString", 
+      "name": "TYPE_"
+    }, 
+    {
+      "alias": "TYPE2", 
+      "length": 40, 
+      "type": "esriFieldTypeString", 
+      "name": "TYPE2"
+    }, 
+    {
+      "alias": "MAGNET", 
+      "length": 20, 
+      "type": "esriFieldTypeString", 
+      "name": "MAGNET"
+    }, 
+    {
+      "alias": "TYPE3", 
+      "length": 50, 
+      "type": "esriFieldTypeString", 
+      "name": "TYPE3"
+    }, 
+    {
+      "alias": "YEARROUND", 
+      "length": 20, 
+      "type": "esriFieldTypeString", 
+      "name": "YEARROUND"
+    }, 
+    {
+      "alias": "CHOICE", 
+      "length": 50, 
+      "type": "esriFieldTypeString", 
+      "name": "CHOICE"
+    }, 
+    {
+      "alias": "MAGNET06", 
+      "length": 20, 
+      "type": "esriFieldTypeString", 
+      "name": "MAGNET06"
+    }, 
+    {
+      "alias": "FUTURESCHO", 
+      "length": 30, 
+      "type": "esriFieldTypeString", 
+      "name": "FUTURESCHO"
+    }, 
+    {
+      "alias": "FUTUREDATE", 
+      "length": 25, 
+      "type": "esriFieldTypeString", 
+      "name": "FUTUREDATE"
+    }, 
+    {
+      "alias": "ADDRESS", 
+      "length": 50, 
+      "type": "esriFieldTypeString", 
+      "name": "ADDRESS"
+    }, 
+    {
+      "alias": "WEBSITE", 
+      "length": 150, 
+      "type": "esriFieldTypeString", 
+      "name": "WEBSITE"
+    }, 
+    {
+      "alias": "School", 
+      "length": 50, 
+      "type": "esriFieldTypeString", 
+      "name": "School"
+    }
+  ], 
+  "displayFieldName": "SCHOOL", 
+  "spatialReference": {
+    "wkid": 102719, 
+    "latestWkid": 2264
+  }
+}
