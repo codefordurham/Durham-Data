@@ -29,6 +29,7 @@ To download, run::
     python download.py --dest durham-streets.geojson $GISROOT/DurhamMaps/StreetBaseMap/MapServer/4/query
     python download.py --dest durham-railroads.geojson $GISROOT/DurhamMaps/StreetBaseMap/MapServer/1/query
     python download.py --dest durham-trails.geojson $GISROOT/DurhamMaps/StreetBaseMap/MapServer/5/query
+    python download.py --dest durham-bike-lanes.geojson $GISROOT/DurhamMaps/BikeMap_NAD83/MapServer/0/query
 
 
 Points of Interest
