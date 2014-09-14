@@ -31,5 +31,4 @@ Download general boundaries::
 
     export GISROOT=http://gisweb2.ci.durham.nc.us/arcgis/rest/services
     python download.py --dest durham-county.geojson $GISROOT/DurhamMaps/StreetBaseMap/MapServer/2/query
-    python download.py --dest durham-city.geojson $GISROOT/DurhamMaps/StreetBaseMap/MapServer/7/query
     python download.py --dest durham-city-county.geojson $GISROOT/DurhamMaps/StreetBaseMap/MapServer/10/query
