@@ -1,5 +1,5 @@
-Durham GIS data
-===============
+Durham, North Carolina GIS data
+===============================
 
 To setup your local environment you should create a virtualenv and install the
 necessary requirements::
