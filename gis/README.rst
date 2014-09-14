@@ -22,7 +22,3 @@ Download Durham Public School data::
     python download.py --dest schools/districts-middle-year-round.geojson $GISROOT/DurhamMaps/DPS_Schools/MapServer/5/query
     python download.py --dest schools/districts-elementary-magnet-walk.geojson $GISROOT/DurhamMaps/DPS_Schools/MapServer/6/query
     python download.py --dest schools/districts-holt-easley.geojson $GISROOT/DurhamMaps/DPS_Schools/MapServer/7/query
-    python download.py --dest schools/districts-elementary-student-assignment.geojson $GISROOT/DurhamMaps/DPS_ElementaryStudentAssignment/MapServer/4/query
-
-
-DPS_ElementaryStudentAssignment/MapServer/4
