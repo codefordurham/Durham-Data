@@ -1,0 +1,2938 @@
+school_year,lea_number,school_number,grade_level,sex,race,attendance
+2014,320,310,0,Male,American Indian,1
+2014,320,312,11,Male,American Indian,2
+2014,320,312,9,Male,American Indian,4
+2014,320,316,8,Male,American Indian,1
+2014,320,319,2,Male,American Indian,2
+2014,320,319,3,Male,American Indian,1
+2014,320,319,4,Male,American Indian,3
+2014,320,320,2,Male,American Indian,1
+2014,320,320,3,Male,American Indian,1
+2014,320,320,0,Male,American Indian,2
+2014,320,323,11,Male,American Indian,1
+2014,320,323,8,Male,American Indian,1
+2014,320,324,4,Male,American Indian,1
+2014,320,325,11,Male,American Indian,1
+2014,320,327,0,Male,American Indian,1
+2014,320,332,2,Male,American Indian,1
+2014,320,332,5,Male,American Indian,1
+2014,320,336,5,Male,American Indian,
+2014,320,338,6,Male,American Indian,1
+2014,320,339,0,Male,American Indian,1
+2014,320,340,3,Male,American Indian,1
+2014,320,340,4,Male,American Indian,1
+2014,320,340,0,Male,American Indian,1
+2014,320,341,8,Male,American Indian,1
+2014,320,343,6,Male,American Indian,1
+2014,320,343,8,Male,American Indian,1
+2014,320,344,0,Male,American Indian,1
+2014,320,346,6,Male,American Indian,1
+2014,320,352,2,Male,American Indian,1
+2014,320,352,0,Male,American Indian,1
+2014,320,355,7,Male,American Indian,1
+2014,320,356,10,Male,American Indian,2
+2014,320,356,11,Male,American Indian,2
+2014,320,356,12,Male,American Indian,3
+2014,320,360,2,Male,American Indian,1
+2014,320,360,0,Male,American Indian,3
+2014,320,363,3,Male,American Indian,1
+2014,320,363,0,Male,American Indian,2
+2014,320,364,3,Male,American Indian,1
+2014,320,364,0,Male,American Indian,1
+2014,320,365,10,Male,American Indian,1
+2014,320,365,11,Male,American Indian,1
+2014,320,365,12,Male,American Indian,1
+2014,320,365,9,Male,American Indian,6
+2014,320,366,6,Male,American Indian,3
+2014,320,366,7,Male,American Indian,1
+2014,320,366,8,Male,American Indian,1
+2014,320,368,10,Male,American Indian,1
+2014,320,368,12,Male,American Indian,1
+2014,320,369,0,Male,American Indian,1
+2014,320,372,4,Male,American Indian,1
+2014,320,372,5,Male,American Indian,1
+2014,320,376,1,Male,American Indian,1
+2014,320,388,1,Male,American Indian,1
+2014,320,388,2,Male,American Indian,1
+2014,320,388,4,Male,American Indian,1
+2014,320,388,5,Male,American Indian,1
+2014,320,400,2,Male,American Indian,1
+2014,320,700,10,Male,American Indian,2
+2014,320,700,9,Male,American Indian,1
+2014,320,701,9,Male,American Indian,1
+2014,32A,000,8,Male,American Indian,1
+2014,32D,000,3,Male,American Indian,1
+2014,32D,000,6,Male,American Indian,1
+2014,32H,000,3,Male,American Indian,1
+2014,32H,000,5,Male,American Indian,2
+2014,32L,000,11,Male,American Indian,1
+2014,320,306,8,Female,American Indian,1
+2014,320,310,0,Female,American Indian,2
+2014,320,312,12,Female,American Indian,1
+2014,320,312,9,Female,American Indian,5
+2014,320,315,2,Female,American Indian,2
+2014,320,315,4,Female,American Indian,2
+2014,320,316,8,Female,American Indian,1
+2014,320,317,12,Female,American Indian,1
+2014,320,319,1,Female,American Indian,1
+2014,320,319,3,Female,American Indian,2
+2014,320,319,4,Female,American Indian,1
+2014,320,319,0,Female,American Indian,2
+2014,320,320,1,Female,American Indian,1
+2014,320,320,5,Female,American Indian,2
+2014,320,320,0,Female,American Indian,1
+2014,320,323,7,Female,American Indian,2
+2014,320,323,8,Female,American Indian,1
+2014,320,324,4,Female,American Indian,1
+2014,320,324,0,Female,American Indian,1
+2014,320,327,1,Female,American Indian,1
+2014,320,327,4,Female,American Indian,1
+2014,320,327,0,Female,American Indian,1
+2014,320,328,3,Female,American Indian,2
+2014,320,328,0,Female,American Indian,1
+2014,320,332,5,Female,American Indian,1
+2014,320,332,0,Female,American Indian,1
+2014,320,336,1,Female,American Indian,
+2014,320,336,3,Female,American Indian,
+2014,320,336,4,Female,American Indian,
+2014,320,340,1,Female,American Indian,2
+2014,320,340,5,Female,American Indian,1
+2014,320,341,12,Female,American Indian,
+2014,320,343,8,Female,American Indian,1
+2014,320,346,8,Female,American Indian,1
+2014,320,348,1,Female,American Indian,1
+2014,320,348,5,Female,American Indian,1
+2014,320,356,11,Female,American Indian,5
+2014,320,356,12,Female,American Indian,2
+2014,320,356,9,Female,American Indian,2
+2014,320,360,1,Female,American Indian,1
+2014,320,360,0,Female,American Indian,1
+2014,320,364,2,Female,American Indian,2
+2014,320,365,10,Female,American Indian,1
+2014,320,365,9,Female,American Indian,6
+2014,320,366,6,Female,American Indian,4
+2014,320,366,7,Female,American Indian,1
+2014,320,366,8,Female,American Indian,1
+2014,320,367,0,Female,American Indian,3
+2014,320,368,10,Female,American Indian,2
+2014,320,369,0,Female,American Indian,1
+2014,320,376,3,Female,American Indian,1
+2014,320,376,4,Female,American Indian,1
+2014,320,388,2,Female,American Indian,1
+2014,320,388,0,Female,American Indian,2
+2014,32D,000,6,Female,American Indian,1
+2014,32D,000,7,Female,American Indian,1
+2014,32D,000,10,Female,American Indian,1
+2014,32H,000,1,Female,American Indian,1
+2014,32L,000,3,Female,American Indian,1
+2014,32L,000,7,Female,American Indian,1
+2014,32L,000,8,Female,American Indian,1
+2014,32L,000,9,Female,American Indian,1
+2014,320,304,1,Male,Asian,1
+2014,320,304,2,Male,Asian,1
+2014,320,304,4,Male,Asian,1
+2014,320,304,5,Male,Asian,1
+2014,320,304,0,Male,Asian,1
+2014,320,306,6,Male,Asian,7
+2014,320,306,7,Male,Asian,7
+2014,320,306,8,Male,Asian,1
+2014,320,309,10,Male,Asian,2
+2014,320,309,11,Male,Asian,1
+2014,320,309,12,Male,Asian,1
+2014,320,309,9,Male,Asian,4
+2014,320,310,5,Male,Asian,1
+2014,320,312,10,Male,Asian,9
+2014,320,312,11,Male,Asian,14
+2014,320,312,12,Male,Asian,17
+2014,320,312,9,Male,Asian,18
+2014,320,313,1,Male,Asian,7
+2014,320,313,2,Male,Asian,3
+2014,320,313,3,Male,Asian,1
+2014,320,313,4,Male,Asian,1
+2014,320,313,5,Male,Asian,2
+2014,320,313,0,Male,Asian,5
+2014,320,314,6,Male,Asian,1
+2014,320,315,1,Male,Asian,3
+2014,320,315,4,Male,Asian,2
+2014,320,315,5,Male,Asian,5
+2014,320,316,6,Male,Asian,5
+2014,320,316,7,Male,Asian,8
+2014,320,316,8,Male,Asian,10
+2014,320,317,10,Male,Asian,2
+2014,320,317,11,Male,Asian,2
+2014,320,317,12,Male,Asian,4
+2014,320,317,9,Male,Asian,2
+2014,320,318,2,Male,Asian,1
+2014,320,318,3,Male,Asian,1
+2014,320,319,1,Male,Asian,9
+2014,320,319,2,Male,Asian,4
+2014,320,319,3,Male,Asian,7
+2014,320,319,4,Male,Asian,1
+2014,320,319,5,Male,Asian,7
+2014,320,319,0,Male,Asian,7
+2014,320,320,4,Male,Asian,1
+2014,320,320,5,Male,Asian,1
+2014,320,323,10,Male,Asian,5
+2014,320,323,11,Male,Asian,4
+2014,320,323,12,Male,Asian,3
+2014,320,323,7,Male,Asian,8
+2014,320,323,8,Male,Asian,7
+2014,320,323,9,Male,Asian,4
+2014,320,324,1,Male,Asian,2
+2014,320,324,2,Male,Asian,2
+2014,320,324,3,Male,Asian,2
+2014,320,324,4,Male,Asian,1
+2014,320,324,5,Male,Asian,1
+2014,320,324,0,Male,Asian,1
+2014,320,325,10,Male,Asian,1
+2014,320,325,11,Male,Asian,1
+2014,320,325,12,Male,Asian,1
+2014,320,327,1,Male,Asian,6
+2014,320,327,4,Male,Asian,2
+2014,320,327,5,Male,Asian,1
+2014,320,327,0,Male,Asian,1
+2014,320,328,1,Male,Asian,1
+2014,320,328,5,Male,Asian,2
+2014,320,332,1,Male,Asian,6
+2014,320,332,2,Male,Asian,2
+2014,320,332,3,Male,Asian,2
+2014,320,332,4,Male,Asian,5
+2014,320,332,5,Male,Asian,4
+2014,320,332,0,Male,Asian,7
+2014,320,336,1,Male,Asian,1
+2014,320,336,3,Male,Asian,1
+2014,320,336,5,Male,Asian,
+2014,320,338,6,Male,Asian,1
+2014,320,339,1,Male,Asian,1
+2014,320,339,2,Male,Asian,3
+2014,320,339,3,Male,Asian,4
+2014,320,339,4,Male,Asian,5
+2014,320,339,5,Male,Asian,1
+2014,320,339,0,Male,Asian,3
+2014,320,340,1,Male,Asian,1
+2014,320,340,5,Male,Asian,1
+2014,320,340,0,Male,Asian,1
+2014,320,342,6,Male,Asian,2
+2014,320,342,7,Male,Asian,1
+2014,320,342,8,Male,Asian,1
+2014,320,343,6,Male,Asian,3
+2014,320,343,8,Male,Asian,2
+2014,320,346,6,Male,Asian,1
+2014,320,346,7,Male,Asian,3
+2014,320,347,3,Male,Asian,1
+2014,320,347,5,Male,Asian,1
+2014,320,347,0,Male,Asian,1
+2014,320,352,1,Male,Asian,1
+2014,320,352,5,Male,Asian,1
+2014,320,354,3,Male,Asian,1
+2014,320,354,4,Male,Asian,1
+2014,320,354,0,Male,Asian,1
+2014,320,356,10,Male,Asian,3
+2014,320,356,11,Male,Asian,1
+2014,320,356,12,Male,Asian,2
+2014,320,356,9,Male,Asian,2
+2014,320,362,1,Male,Asian,1
+2014,320,362,2,Male,Asian,5
+2014,320,362,3,Male,Asian,1
+2014,320,362,0,Male,Asian,3
+2014,320,364,1,Male,Asian,2
+2014,320,364,2,Male,Asian,3
+2014,320,364,3,Male,Asian,6
+2014,320,364,4,Male,Asian,3
+2014,320,364,5,Male,Asian,3
+2014,320,364,0,Male,Asian,2
+2014,320,365,10,Male,Asian,3
+2014,320,365,11,Male,Asian,7
+2014,320,365,12,Male,Asian,4
+2014,320,365,9,Male,Asian,11
+2014,320,366,6,Male,Asian,5
+2014,320,366,7,Male,Asian,7
+2014,320,366,8,Male,Asian,6
+2014,320,367,1,Male,Asian,1
+2014,320,367,2,Male,Asian,1
+2014,320,367,5,Male,Asian,1
+2014,320,369,2,Male,Asian,1
+2014,320,369,3,Male,Asian,3
+2014,320,369,5,Male,Asian,1
+2014,320,369,0,Male,Asian,1
+2014,320,370,6,Male,Asian,2
+2014,320,370,7,Male,Asian,3
+2014,320,370,8,Male,Asian,1
+2014,320,372,1,Male,Asian,2
+2014,320,372,2,Male,Asian,2
+2014,320,372,3,Male,Asian,1
+2014,320,372,4,Male,Asian,5
+2014,320,372,5,Male,Asian,7
+2014,320,372,0,Male,Asian,2
+2014,320,374,0,Male,Asian,1
+2014,320,376,1,Male,Asian,1
+2014,320,376,0,Male,Asian,4
+2014,320,388,1,Male,Asian,1
+2014,320,400,0,Male,Asian,1
+2014,320,700,9,Male,Asian,1
+2014,320,701,10,Male,Asian,1
+2014,320,701,11,Male,Asian,1
+2014,320,701,12,Male,Asian,1
+2014,32C,000,0,Male,Asian,1
+2014,32D,000,2,Male,Asian,1
+2014,32D,000,3,Male,Asian,3
+2014,32D,000,5,Male,Asian,2
+2014,32D,000,7,Male,Asian,5
+2014,32D,000,8,Male,Asian,6
+2014,32D,000,9,Male,Asian,1
+2014,32D,000,12,Male,Asian,1
+2014,32D,000,0,Male,Asian,1
+2014,32H,000,1,Male,Asian,1
+2014,32H,000,2,Male,Asian,2
+2014,32H,000,3,Male,Asian,1
+2014,32H,000,6,Male,Asian,2
+2014,32H,000,7,Male,Asian,1
+2014,32H,000,8,Male,Asian,1
+2014,32H,000,0,Male,Asian,3
+2014,32K,000,2,Male,Asian,1
+2014,32K,000,0,Male,Asian,1
+2014,32L,000,1,Male,Asian,4
+2014,32L,000,2,Male,Asian,2
+2014,32L,000,4,Male,Asian,1
+2014,32L,000,5,Male,Asian,1
+2014,32L,000,7,Male,Asian,1
+2014,32L,000,8,Male,Asian,1
+2014,32L,000,10,Male,Asian,2
+2014,32L,000,11,Male,Asian,1
+2014,32L,000,12,Male,Asian,1
+2014,32L,000,0,Male,Asian,4
+2014,32N,000,9,Male,Asian,5
+2014,32N,000,10,Male,Asian,4
+2014,32P,000,0,Male,Asian,1
+2014,320,304,2,Female,Asian,1
+2014,320,304,4,Female,Asian,2
+2014,320,304,5,Female,Asian,1
+2014,320,304,0,Female,Asian,1
+2014,320,306,6,Female,Asian,4
+2014,320,306,7,Female,Asian,1
+2014,320,306,8,Female,Asian,2
+2014,320,308,0,Female,Asian,1
+2014,320,309,11,Female,Asian,1
+2014,320,309,12,Female,Asian,2
+2014,320,309,9,Female,Asian,1
+2014,320,310,2,Female,Asian,1
+2014,320,312,10,Female,Asian,17
+2014,320,312,11,Female,Asian,6
+2014,320,312,12,Female,Asian,8
+2014,320,312,9,Female,Asian,17
+2014,320,313,1,Female,Asian,2
+2014,320,313,2,Female,Asian,3
+2014,320,313,5,Female,Asian,1
+2014,320,313,0,Female,Asian,3
+2014,320,315,1,Female,Asian,1
+2014,320,315,5,Female,Asian,4
+2014,320,315,0,Female,Asian,1
+2014,320,316,6,Female,Asian,4
+2014,320,316,7,Female,Asian,3
+2014,320,316,8,Female,Asian,5
+2014,320,317,10,Female,Asian,3
+2014,320,317,11,Female,Asian,1
+2014,320,317,12,Female,Asian,3
+2014,320,317,9,Female,Asian,3
+2014,320,318,1,Female,Asian,1
+2014,320,318,5,Female,Asian,1
+2014,320,318,0,Female,Asian,1
+2014,320,319,1,Female,Asian,4
+2014,320,319,2,Female,Asian,4
+2014,320,319,3,Female,Asian,4
+2014,320,319,4,Female,Asian,2
+2014,320,319,5,Female,Asian,7
+2014,320,319,0,Female,Asian,4
+2014,320,320,1,Female,Asian,1
+2014,320,320,3,Female,Asian,3
+2014,320,320,5,Female,Asian,1
+2014,320,323,10,Female,Asian,6
+2014,320,323,11,Female,Asian,6
+2014,320,323,12,Female,Asian,6
+2014,320,323,6,Female,Asian,2
+2014,320,323,7,Female,Asian,1
+2014,320,323,8,Female,Asian,3
+2014,320,323,9,Female,Asian,6
+2014,320,324,1,Female,Asian,6
+2014,320,324,2,Female,Asian,1
+2014,320,324,3,Female,Asian,1
+2014,320,324,4,Female,Asian,3
+2014,320,324,5,Female,Asian,2
+2014,320,324,0,Female,Asian,3
+2014,320,325,10,Female,Asian,1
+2014,320,327,1,Female,Asian,1
+2014,320,327,2,Female,Asian,1
+2014,320,327,3,Female,Asian,1
+2014,320,327,4,Female,Asian,2
+2014,320,327,5,Female,Asian,5
+2014,320,327,0,Female,Asian,4
+2014,320,328,2,Female,Asian,1
+2014,320,328,4,Female,Asian,1
+2014,320,328,5,Female,Asian,2
+2014,320,332,1,Female,Asian,5
+2014,320,332,2,Female,Asian,5
+2014,320,332,3,Female,Asian,3
+2014,320,332,4,Female,Asian,2
+2014,320,332,5,Female,Asian,3
+2014,320,332,0,Female,Asian,3
+2014,320,336,1,Female,Asian,
+2014,320,336,2,Female,Asian,1
+2014,320,336,3,Female,Asian,
+2014,320,336,4,Female,Asian,
+2014,320,338,6,Female,Asian,1
+2014,320,338,7,Female,Asian,3
+2014,320,339,1,Female,Asian,1
+2014,320,339,2,Female,Asian,1
+2014,320,339,3,Female,Asian,2
+2014,320,339,5,Female,Asian,1
+2014,320,339,0,Female,Asian,2
+2014,320,340,4,Female,Asian,2
+2014,320,340,5,Female,Asian,1
+2014,320,340,0,Female,Asian,1
+2014,320,341,12,Female,Asian,
+2014,320,342,6,Female,Asian,1
+2014,320,343,7,Female,Asian,2
+2014,320,346,7,Female,Asian,1
+2014,320,346,8,Female,Asian,1
+2014,320,347,5,Female,Asian,2
+2014,320,348,2,Female,Asian,1
+2014,320,348,4,Female,Asian,1
+2014,320,348,5,Female,Asian,2
+2014,320,352,1,Female,Asian,2
+2014,320,353,11,Female,Asian,1
+2014,320,354,2,Female,Asian,1
+2014,320,354,0,Female,Asian,1
+2014,320,355,6,Female,Asian,1
+2014,320,356,10,Female,Asian,2
+2014,320,356,11,Female,Asian,1
+2014,320,356,12,Female,Asian,3
+2014,320,356,9,Female,Asian,1
+2014,320,360,1,Female,Asian,3
+2014,320,360,5,Female,Asian,1
+2014,320,362,1,Female,Asian,3
+2014,320,362,2,Female,Asian,4
+2014,320,362,3,Female,Asian,1
+2014,320,362,4,Female,Asian,1
+2014,320,362,5,Female,Asian,2
+2014,320,362,0,Female,Asian,2
+2014,320,363,1,Female,Asian,1
+2014,320,363,3,Female,Asian,1
+2014,320,364,1,Female,Asian,3
+2014,320,364,2,Female,Asian,4
+2014,320,364,3,Female,Asian,1
+2014,320,364,4,Female,Asian,2
+2014,320,364,5,Female,Asian,3
+2014,320,364,0,Female,Asian,5
+2014,320,365,10,Female,Asian,2
+2014,320,365,11,Female,Asian,3
+2014,320,365,12,Female,Asian,5
+2014,320,365,9,Female,Asian,6
+2014,320,366,6,Female,Asian,4
+2014,320,366,7,Female,Asian,9
+2014,320,366,8,Female,Asian,9
+2014,320,368,9,Female,Asian,1
+2014,320,369,2,Female,Asian,2
+2014,320,369,4,Female,Asian,1
+2014,320,369,5,Female,Asian,1
+2014,320,369,0,Female,Asian,2
+2014,320,370,6,Female,Asian,4
+2014,320,370,7,Female,Asian,4
+2014,320,370,8,Female,Asian,3
+2014,320,372,1,Female,Asian,1
+2014,320,372,2,Female,Asian,3
+2014,320,372,3,Female,Asian,2
+2014,320,372,4,Female,Asian,2
+2014,320,372,5,Female,Asian,2
+2014,320,372,0,Female,Asian,4
+2014,320,374,1,Female,Asian,1
+2014,320,374,0,Female,Asian,1
+2014,320,376,1,Female,Asian,3
+2014,320,376,2,Female,Asian,2
+2014,320,376,3,Female,Asian,2
+2014,320,388,1,Female,Asian,1
+2014,320,388,5,Female,Asian,1
+2014,32D,000,1,Female,Asian,1
+2014,32D,000,3,Female,Asian,3
+2014,32D,000,4,Female,Asian,2
+2014,32D,000,5,Female,Asian,3
+2014,32D,000,6,Female,Asian,3
+2014,32D,000,7,Female,Asian,2
+2014,32D,000,8,Female,Asian,6
+2014,32D,000,9,Female,Asian,1
+2014,32D,000,10,Female,Asian,1
+2014,32D,000,12,Female,Asian,1
+2014,32D,000,0,Female,Asian,1
+2014,32H,000,4,Female,Asian,1
+2014,32H,000,5,Female,Asian,1
+2014,32H,000,6,Female,Asian,1
+2014,32H,000,0,Female,Asian,2
+2014,32K,000,3,Female,Asian,1
+2014,32K,000,4,Female,Asian,1
+2014,32L,000,1,Female,Asian,4
+2014,32L,000,2,Female,Asian,4
+2014,32L,000,3,Female,Asian,1
+2014,32L,000,5,Female,Asian,1
+2014,32L,000,6,Female,Asian,2
+2014,32L,000,7,Female,Asian,1
+2014,32L,000,9,Female,Asian,2
+2014,32L,000,11,Female,Asian,1
+2014,32L,000,12,Female,Asian,1
+2014,32N,000,9,Female,Asian,8
+2014,320,304,1,Male,Hispanic,24
+2014,320,304,2,Male,Hispanic,18
+2014,320,304,3,Male,Hispanic,20
+2014,320,304,4,Male,Hispanic,9
+2014,320,304,5,Male,Hispanic,17
+2014,320,304,0,Male,Hispanic,14
+2014,320,306,6,Male,Hispanic,27
+2014,320,306,7,Male,Hispanic,40
+2014,320,306,8,Male,Hispanic,38
+2014,320,308,1,Male,Hispanic,22
+2014,320,308,2,Male,Hispanic,18
+2014,320,308,3,Male,Hispanic,13
+2014,320,308,4,Male,Hispanic,12
+2014,320,308,5,Male,Hispanic,11
+2014,320,308,0,Male,Hispanic,20
+2014,320,309,10,Male,Hispanic,10
+2014,320,309,11,Male,Hispanic,7
+2014,320,309,12,Male,Hispanic,7
+2014,320,309,9,Male,Hispanic,13
+2014,320,310,1,Male,Hispanic,35
+2014,320,310,2,Male,Hispanic,23
+2014,320,310,3,Male,Hispanic,23
+2014,320,310,4,Male,Hispanic,24
+2014,320,310,5,Male,Hispanic,15
+2014,320,310,0,Male,Hispanic,31
+2014,320,312,10,Male,Hispanic,49
+2014,320,312,11,Male,Hispanic,43
+2014,320,312,12,Male,Hispanic,26
+2014,320,312,9,Male,Hispanic,58
+2014,320,313,1,Male,Hispanic,9
+2014,320,313,2,Male,Hispanic,4
+2014,320,313,3,Male,Hispanic,9
+2014,320,313,4,Male,Hispanic,5
+2014,320,313,5,Male,Hispanic,8
+2014,320,313,0,Male,Hispanic,11
+2014,320,314,6,Male,Hispanic,9
+2014,320,314,7,Male,Hispanic,9
+2014,320,314,9,Male,Hispanic,13
+2014,320,315,1,Male,Hispanic,14
+2014,320,315,2,Male,Hispanic,5
+2014,320,315,3,Male,Hispanic,7
+2014,320,315,4,Male,Hispanic,5
+2014,320,315,5,Male,Hispanic,11
+2014,320,315,0,Male,Hispanic,17
+2014,320,316,6,Male,Hispanic,43
+2014,320,316,7,Male,Hispanic,34
+2014,320,316,8,Male,Hispanic,29
+2014,320,317,10,Male,Hispanic,4
+2014,320,317,11,Male,Hispanic,2
+2014,320,317,12,Male,Hispanic,4
+2014,320,317,9,Male,Hispanic,3
+2014,320,318,1,Male,Hispanic,22
+2014,320,318,2,Male,Hispanic,14
+2014,320,318,3,Male,Hispanic,11
+2014,320,318,4,Male,Hispanic,14
+2014,320,318,5,Male,Hispanic,13
+2014,320,318,0,Male,Hispanic,23
+2014,320,319,1,Male,Hispanic,33
+2014,320,319,2,Male,Hispanic,20
+2014,320,319,3,Male,Hispanic,15
+2014,320,319,4,Male,Hispanic,12
+2014,320,319,5,Male,Hispanic,16
+2014,320,319,0,Male,Hispanic,18
+2014,320,320,1,Male,Hispanic,28
+2014,320,320,2,Male,Hispanic,31
+2014,320,320,3,Male,Hispanic,25
+2014,320,320,4,Male,Hispanic,19
+2014,320,320,5,Male,Hispanic,20
+2014,320,320,0,Male,Hispanic,29
+2014,320,322,10,Male,Hispanic,6
+2014,320,322,11,Male,Hispanic,6
+2014,320,322,12,Male,Hispanic,4
+2014,320,322,9,Male,Hispanic,6
+2014,320,323,10,Male,Hispanic,21
+2014,320,323,11,Male,Hispanic,13
+2014,320,323,12,Male,Hispanic,6
+2014,320,323,6,Male,Hispanic,16
+2014,320,323,7,Male,Hispanic,13
+2014,320,323,8,Male,Hispanic,20
+2014,320,323,9,Male,Hispanic,19
+2014,320,324,1,Male,Hispanic,11
+2014,320,324,2,Male,Hispanic,17
+2014,320,324,3,Male,Hispanic,7
+2014,320,324,4,Male,Hispanic,13
+2014,320,324,5,Male,Hispanic,12
+2014,320,324,0,Male,Hispanic,16
+2014,320,325,10,Male,Hispanic,18
+2014,320,325,11,Male,Hispanic,18
+2014,320,325,12,Male,Hispanic,12
+2014,320,325,9,Male,Hispanic,29
+2014,320,327,1,Male,Hispanic,19
+2014,320,327,2,Male,Hispanic,23
+2014,320,327,3,Male,Hispanic,14
+2014,320,327,4,Male,Hispanic,17
+2014,320,327,5,Male,Hispanic,10
+2014,320,327,0,Male,Hispanic,20
+2014,320,328,1,Male,Hispanic,24
+2014,320,328,2,Male,Hispanic,32
+2014,320,328,3,Male,Hispanic,21
+2014,320,328,4,Male,Hispanic,24
+2014,320,328,5,Male,Hispanic,19
+2014,320,328,0,Male,Hispanic,40
+2014,320,332,1,Male,Hispanic,23
+2014,320,332,2,Male,Hispanic,24
+2014,320,332,3,Male,Hispanic,21
+2014,320,332,4,Male,Hispanic,16
+2014,320,332,5,Male,Hispanic,10
+2014,320,332,0,Male,Hispanic,20
+2014,320,336,5,Male,Hispanic,
+2014,320,338,6,Male,Hispanic,19
+2014,320,338,7,Male,Hispanic,13
+2014,320,338,8,Male,Hispanic,23
+2014,320,339,1,Male,Hispanic,24
+2014,320,339,2,Male,Hispanic,17
+2014,320,339,3,Male,Hispanic,29
+2014,320,339,4,Male,Hispanic,17
+2014,320,339,5,Male,Hispanic,18
+2014,320,339,0,Male,Hispanic,24
+2014,320,340,1,Male,Hispanic,3
+2014,320,340,2,Male,Hispanic,3
+2014,320,340,3,Male,Hispanic,6
+2014,320,340,4,Male,Hispanic,3
+2014,320,340,5,Male,Hispanic,5
+2014,320,340,0,Male,Hispanic,2
+2014,320,341,10,Male,Hispanic,2
+2014,320,341,11,Male,Hispanic,1
+2014,320,341,6,Male,Hispanic,1
+2014,320,341,8,Male,Hispanic,1
+2014,320,341,9,Male,Hispanic,2
+2014,320,342,6,Male,Hispanic,10
+2014,320,342,7,Male,Hispanic,17
+2014,320,342,8,Male,Hispanic,13
+2014,320,343,6,Male,Hispanic,22
+2014,320,343,7,Male,Hispanic,26
+2014,320,343,8,Male,Hispanic,16
+2014,320,344,1,Male,Hispanic,7
+2014,320,344,2,Male,Hispanic,3
+2014,320,344,3,Male,Hispanic,3
+2014,320,344,4,Male,Hispanic,6
+2014,320,344,5,Male,Hispanic,3
+2014,320,344,0,Male,Hispanic,7
+2014,320,346,6,Male,Hispanic,30
+2014,320,346,7,Male,Hispanic,28
+2014,320,346,8,Male,Hispanic,30
+2014,320,347,1,Male,Hispanic,12
+2014,320,347,2,Male,Hispanic,9
+2014,320,347,3,Male,Hispanic,11
+2014,320,347,4,Male,Hispanic,11
+2014,320,347,5,Male,Hispanic,6
+2014,320,347,0,Male,Hispanic,11
+2014,320,348,1,Male,Hispanic,3
+2014,320,348,2,Male,Hispanic,1
+2014,320,348,3,Male,Hispanic,1
+2014,320,348,4,Male,Hispanic,2
+2014,320,348,5,Male,Hispanic,2
+2014,320,348,0,Male,Hispanic,3
+2014,320,352,1,Male,Hispanic,25
+2014,320,352,2,Male,Hispanic,29
+2014,320,352,3,Male,Hispanic,34
+2014,320,352,4,Male,Hispanic,21
+2014,320,352,5,Male,Hispanic,24
+2014,320,352,0,Male,Hispanic,37
+2014,320,353,11,Male,Hispanic,1
+2014,320,353,12,Male,Hispanic,7
+2014,320,354,1,Male,Hispanic,5
+2014,320,354,3,Male,Hispanic,6
+2014,320,354,4,Male,Hispanic,3
+2014,320,354,5,Male,Hispanic,6
+2014,320,354,0,Male,Hispanic,8
+2014,320,355,6,Male,Hispanic,44
+2014,320,355,7,Male,Hispanic,57
+2014,320,355,8,Male,Hispanic,59
+2014,320,356,10,Male,Hispanic,39
+2014,320,356,11,Male,Hispanic,38
+2014,320,356,12,Male,Hispanic,16
+2014,320,356,9,Male,Hispanic,39
+2014,320,360,1,Male,Hispanic,22
+2014,320,360,2,Male,Hispanic,11
+2014,320,360,3,Male,Hispanic,19
+2014,320,360,4,Male,Hispanic,5
+2014,320,360,5,Male,Hispanic,11
+2014,320,360,0,Male,Hispanic,26
+2014,320,362,1,Male,Hispanic,13
+2014,320,362,2,Male,Hispanic,12
+2014,320,362,3,Male,Hispanic,11
+2014,320,362,4,Male,Hispanic,11
+2014,320,362,5,Male,Hispanic,11
+2014,320,362,0,Male,Hispanic,16
+2014,320,363,1,Male,Hispanic,13
+2014,320,363,2,Male,Hispanic,16
+2014,320,363,3,Male,Hispanic,18
+2014,320,363,4,Male,Hispanic,14
+2014,320,363,5,Male,Hispanic,9
+2014,320,363,0,Male,Hispanic,10
+2014,320,364,1,Male,Hispanic,6
+2014,320,364,2,Male,Hispanic,7
+2014,320,364,3,Male,Hispanic,8
+2014,320,364,4,Male,Hispanic,5
+2014,320,364,5,Male,Hispanic,1
+2014,320,364,0,Male,Hispanic,5
+2014,320,365,10,Male,Hispanic,57
+2014,320,365,11,Male,Hispanic,47
+2014,320,365,12,Male,Hispanic,39
+2014,320,365,9,Male,Hispanic,80
+2014,320,366,6,Male,Hispanic,38
+2014,320,366,7,Male,Hispanic,37
+2014,320,366,8,Male,Hispanic,40
+2014,320,367,1,Male,Hispanic,12
+2014,320,367,2,Male,Hispanic,10
+2014,320,367,3,Male,Hispanic,12
+2014,320,367,4,Male,Hispanic,4
+2014,320,367,5,Male,Hispanic,9
+2014,320,367,0,Male,Hispanic,11
+2014,320,368,10,Male,Hispanic,24
+2014,320,368,11,Male,Hispanic,21
+2014,320,368,12,Male,Hispanic,25
+2014,320,368,9,Male,Hispanic,40
+2014,320,369,1,Male,Hispanic,11
+2014,320,369,2,Male,Hispanic,8
+2014,320,369,3,Male,Hispanic,6
+2014,320,369,4,Male,Hispanic,11
+2014,320,369,5,Male,Hispanic,2
+2014,320,369,0,Male,Hispanic,10
+2014,320,370,6,Male,Hispanic,21
+2014,320,370,7,Male,Hispanic,25
+2014,320,370,8,Male,Hispanic,26
+2014,320,372,1,Male,Hispanic,9
+2014,320,372,2,Male,Hispanic,14
+2014,320,372,3,Male,Hispanic,9
+2014,320,372,4,Male,Hispanic,10
+2014,320,372,5,Male,Hispanic,15
+2014,320,372,0,Male,Hispanic,18
+2014,320,374,1,Male,Hispanic,3
+2014,320,374,2,Male,Hispanic,4
+2014,320,374,3,Male,Hispanic,4
+2014,320,374,4,Male,Hispanic,2
+2014,320,374,5,Male,Hispanic,4
+2014,320,374,0,Male,Hispanic,6
+2014,320,376,1,Male,Hispanic,11
+2014,320,376,2,Male,Hispanic,16
+2014,320,376,3,Male,Hispanic,12
+2014,320,376,4,Male,Hispanic,8
+2014,320,376,5,Male,Hispanic,6
+2014,320,376,0,Male,Hispanic,14
+2014,320,388,1,Male,Hispanic,19
+2014,320,388,2,Male,Hispanic,14
+2014,320,388,3,Male,Hispanic,13
+2014,320,388,4,Male,Hispanic,14
+2014,320,388,5,Male,Hispanic,17
+2014,320,388,0,Male,Hispanic,15
+2014,320,389,8,Male,Hispanic,19
+2014,320,400,1,Male,Hispanic,14
+2014,320,400,2,Male,Hispanic,15
+2014,320,400,3,Male,Hispanic,8
+2014,320,400,4,Male,Hispanic,16
+2014,320,400,5,Male,Hispanic,6
+2014,320,400,0,Male,Hispanic,19
+2014,320,700,10,Male,Hispanic,9
+2014,320,700,11,Male,Hispanic,5
+2014,320,700,12,Male,Hispanic,7
+2014,320,700,9,Male,Hispanic,21
+2014,320,701,10,Male,Hispanic,5
+2014,320,701,11,Male,Hispanic,4
+2014,320,701,12,Male,Hispanic,1
+2014,320,701,9,Male,Hispanic,7
+2014,32A,000,1,Male,Hispanic,12
+2014,32A,000,2,Male,Hispanic,11
+2014,32A,000,3,Male,Hispanic,10
+2014,32A,000,4,Male,Hispanic,8
+2014,32A,000,5,Male,Hispanic,6
+2014,32A,000,6,Male,Hispanic,13
+2014,32A,000,7,Male,Hispanic,4
+2014,32A,000,8,Male,Hispanic,3
+2014,32A,000,0,Male,Hispanic,21
+2014,32B,000,1,Male,Hispanic,2
+2014,32B,000,2,Male,Hispanic,3
+2014,32B,000,3,Male,Hispanic,2
+2014,32B,000,4,Male,Hispanic,1
+2014,32B,000,5,Male,Hispanic,1
+2014,32B,000,6,Male,Hispanic,1
+2014,32B,000,7,Male,Hispanic,3
+2014,32B,000,8,Male,Hispanic,2
+2014,32B,000,0,Male,Hispanic,1
+2014,32C,000,1,Male,Hispanic,1
+2014,32C,000,2,Male,Hispanic,1
+2014,32C,000,3,Male,Hispanic,2
+2014,32C,000,6,Male,Hispanic,2
+2014,32C,000,0,Male,Hispanic,1
+2014,32D,000,1,Male,Hispanic,3
+2014,32D,000,2,Male,Hispanic,1
+2014,32D,000,3,Male,Hispanic,4
+2014,32D,000,4,Male,Hispanic,2
+2014,32D,000,5,Male,Hispanic,1
+2014,32D,000,6,Male,Hispanic,4
+2014,32D,000,7,Male,Hispanic,5
+2014,32D,000,8,Male,Hispanic,8
+2014,32D,000,9,Male,Hispanic,8
+2014,32D,000,10,Male,Hispanic,6
+2014,32D,000,11,Male,Hispanic,6
+2014,32D,000,12,Male,Hispanic,3
+2014,32H,000,1,Male,Hispanic,11
+2014,32H,000,2,Male,Hispanic,6
+2014,32H,000,3,Male,Hispanic,7
+2014,32H,000,4,Male,Hispanic,5
+2014,32H,000,5,Male,Hispanic,6
+2014,32H,000,6,Male,Hispanic,5
+2014,32H,000,7,Male,Hispanic,6
+2014,32H,000,8,Male,Hispanic,8
+2014,32H,000,0,Male,Hispanic,6
+2014,32K,000,1,Male,Hispanic,2
+2014,32K,000,3,Male,Hispanic,2
+2014,32K,000,5,Male,Hispanic,1
+2014,32L,000,1,Male,Hispanic,4
+2014,32L,000,2,Male,Hispanic,2
+2014,32L,000,3,Male,Hispanic,3
+2014,32L,000,4,Male,Hispanic,4
+2014,32L,000,6,Male,Hispanic,2
+2014,32L,000,8,Male,Hispanic,1
+2014,32L,000,9,Male,Hispanic,4
+2014,32L,000,10,Male,Hispanic,3
+2014,32L,000,11,Male,Hispanic,2
+2014,32L,000,12,Male,Hispanic,1
+2014,32L,000,0,Male,Hispanic,3
+2014,32M,000,1,Male,Hispanic,3
+2014,32M,000,3,Male,Hispanic,1
+2014,32M,000,4,Male,Hispanic,2
+2014,32M,000,6,Male,Hispanic,1
+2014,32M,000,0,Male,Hispanic,3
+2014,32N,000,9,Male,Hispanic,3
+2014,32N,000,10,Male,Hispanic,1
+2014,320,304,1,Female,Hispanic,17
+2014,320,304,2,Female,Hispanic,19
+2014,320,304,3,Female,Hispanic,25
+2014,320,304,4,Female,Hispanic,20
+2014,320,304,5,Female,Hispanic,19
+2014,320,304,0,Female,Hispanic,21
+2014,320,306,6,Female,Hispanic,39
+2014,320,306,7,Female,Hispanic,28
+2014,320,306,8,Female,Hispanic,32
+2014,320,308,1,Female,Hispanic,22
+2014,320,308,2,Female,Hispanic,12
+2014,320,308,3,Female,Hispanic,17
+2014,320,308,4,Female,Hispanic,15
+2014,320,308,5,Female,Hispanic,16
+2014,320,308,0,Female,Hispanic,20
+2014,320,309,10,Female,Hispanic,15
+2014,320,309,11,Female,Hispanic,9
+2014,320,309,12,Female,Hispanic,7
+2014,320,309,9,Female,Hispanic,12
+2014,320,310,1,Female,Hispanic,27
+2014,320,310,2,Female,Hispanic,27
+2014,320,310,3,Female,Hispanic,17
+2014,320,310,4,Female,Hispanic,12
+2014,320,310,5,Female,Hispanic,20
+2014,320,310,0,Female,Hispanic,31
+2014,320,312,10,Female,Hispanic,43
+2014,320,312,11,Female,Hispanic,46
+2014,320,312,12,Female,Hispanic,23
+2014,320,312,9,Female,Hispanic,61
+2014,320,313,1,Female,Hispanic,6
+2014,320,313,2,Female,Hispanic,5
+2014,320,313,3,Female,Hispanic,5
+2014,320,313,4,Female,Hispanic,3
+2014,320,313,5,Female,Hispanic,4
+2014,320,313,0,Female,Hispanic,6
+2014,320,314,6,Female,Hispanic,14
+2014,320,314,7,Female,Hispanic,5
+2014,320,314,9,Female,Hispanic,9
+2014,320,315,1,Female,Hispanic,18
+2014,320,315,2,Female,Hispanic,6
+2014,320,315,3,Female,Hispanic,9
+2014,320,315,4,Female,Hispanic,5
+2014,320,315,5,Female,Hispanic,10
+2014,320,315,0,Female,Hispanic,12
+2014,320,316,6,Female,Hispanic,37
+2014,320,316,7,Female,Hispanic,34
+2014,320,316,8,Female,Hispanic,30
+2014,320,317,10,Female,Hispanic,16
+2014,320,317,11,Female,Hispanic,13
+2014,320,317,12,Female,Hispanic,7
+2014,320,317,9,Female,Hispanic,17
+2014,320,318,1,Female,Hispanic,17
+2014,320,318,2,Female,Hispanic,11
+2014,320,318,3,Female,Hispanic,25
+2014,320,318,4,Female,Hispanic,15
+2014,320,318,5,Female,Hispanic,11
+2014,320,318,0,Female,Hispanic,26
+2014,320,319,1,Female,Hispanic,21
+2014,320,319,2,Female,Hispanic,21
+2014,320,319,3,Female,Hispanic,19
+2014,320,319,4,Female,Hispanic,19
+2014,320,319,5,Female,Hispanic,14
+2014,320,319,0,Female,Hispanic,18
+2014,320,320,1,Female,Hispanic,30
+2014,320,320,2,Female,Hispanic,23
+2014,320,320,3,Female,Hispanic,33
+2014,320,320,4,Female,Hispanic,16
+2014,320,320,5,Female,Hispanic,21
+2014,320,320,0,Female,Hispanic,21
+2014,320,322,10,Female,Hispanic,14
+2014,320,322,11,Female,Hispanic,12
+2014,320,322,12,Female,Hispanic,8
+2014,320,322,9,Female,Hispanic,7
+2014,320,323,10,Female,Hispanic,26
+2014,320,323,11,Female,Hispanic,26
+2014,320,323,12,Female,Hispanic,12
+2014,320,323,6,Female,Hispanic,28
+2014,320,323,7,Female,Hispanic,28
+2014,320,323,8,Female,Hispanic,35
+2014,320,323,9,Female,Hispanic,31
+2014,320,324,1,Female,Hispanic,17
+2014,320,324,2,Female,Hispanic,16
+2014,320,324,3,Female,Hispanic,10
+2014,320,324,4,Female,Hispanic,9
+2014,320,324,5,Female,Hispanic,8
+2014,320,324,0,Female,Hispanic,19
+2014,320,325,10,Female,Hispanic,17
+2014,320,325,11,Female,Hispanic,16
+2014,320,325,12,Female,Hispanic,11
+2014,320,325,9,Female,Hispanic,24
+2014,320,327,1,Female,Hispanic,27
+2014,320,327,2,Female,Hispanic,22
+2014,320,327,3,Female,Hispanic,18
+2014,320,327,4,Female,Hispanic,11
+2014,320,327,5,Female,Hispanic,17
+2014,320,327,0,Female,Hispanic,22
+2014,320,328,1,Female,Hispanic,38
+2014,320,328,2,Female,Hispanic,31
+2014,320,328,3,Female,Hispanic,19
+2014,320,328,4,Female,Hispanic,15
+2014,320,328,5,Female,Hispanic,25
+2014,320,328,0,Female,Hispanic,31
+2014,320,332,1,Female,Hispanic,24
+2014,320,332,2,Female,Hispanic,22
+2014,320,332,3,Female,Hispanic,13
+2014,320,332,4,Female,Hispanic,13
+2014,320,332,5,Female,Hispanic,19
+2014,320,332,0,Female,Hispanic,24
+2014,320,336,1,Female,Hispanic,
+2014,320,336,3,Female,Hispanic,
+2014,320,336,4,Female,Hispanic,
+2014,320,338,6,Female,Hispanic,19
+2014,320,338,7,Female,Hispanic,31
+2014,320,338,8,Female,Hispanic,10
+2014,320,339,1,Female,Hispanic,24
+2014,320,339,2,Female,Hispanic,18
+2014,320,339,3,Female,Hispanic,13
+2014,320,339,4,Female,Hispanic,14
+2014,320,339,5,Female,Hispanic,18
+2014,320,339,0,Female,Hispanic,21
+2014,320,340,1,Female,Hispanic,7
+2014,320,340,2,Female,Hispanic,6
+2014,320,340,3,Female,Hispanic,3
+2014,320,340,4,Female,Hispanic,1
+2014,320,340,5,Female,Hispanic,7
+2014,320,340,0,Female,Hispanic,1
+2014,320,341,12,Female,Hispanic,
+2014,320,341,8,Female,Hispanic,2
+2014,320,341,9,Female,Hispanic,1
+2014,320,342,6,Female,Hispanic,14
+2014,320,342,7,Female,Hispanic,19
+2014,320,342,8,Female,Hispanic,15
+2014,320,343,6,Female,Hispanic,28
+2014,320,343,7,Female,Hispanic,26
+2014,320,343,8,Female,Hispanic,12
+2014,320,344,1,Female,Hispanic,5
+2014,320,344,2,Female,Hispanic,4
+2014,320,344,3,Female,Hispanic,3
+2014,320,344,4,Female,Hispanic,4
+2014,320,344,5,Female,Hispanic,6
+2014,320,344,0,Female,Hispanic,6
+2014,320,346,6,Female,Hispanic,24
+2014,320,346,7,Female,Hispanic,25
+2014,320,346,8,Female,Hispanic,12
+2014,320,347,1,Female,Hispanic,9
+2014,320,347,2,Female,Hispanic,10
+2014,320,347,3,Female,Hispanic,11
+2014,320,347,4,Female,Hispanic,5
+2014,320,347,5,Female,Hispanic,5
+2014,320,347,0,Female,Hispanic,10
+2014,320,348,1,Female,Hispanic,2
+2014,320,348,2,Female,Hispanic,1
+2014,320,348,3,Female,Hispanic,1
+2014,320,348,4,Female,Hispanic,4
+2014,320,348,5,Female,Hispanic,3
+2014,320,348,0,Female,Hispanic,3
+2014,320,352,1,Female,Hispanic,27
+2014,320,352,2,Female,Hispanic,23
+2014,320,352,3,Female,Hispanic,28
+2014,320,352,4,Female,Hispanic,20
+2014,320,352,5,Female,Hispanic,19
+2014,320,352,0,Female,Hispanic,19
+2014,320,353,11,Female,Hispanic,6
+2014,320,353,12,Female,Hispanic,7
+2014,320,354,1,Female,Hispanic,7
+2014,320,354,2,Female,Hispanic,3
+2014,320,354,3,Female,Hispanic,2
+2014,320,354,4,Female,Hispanic,4
+2014,320,354,5,Female,Hispanic,5
+2014,320,354,0,Female,Hispanic,5
+2014,320,355,6,Female,Hispanic,34
+2014,320,355,7,Female,Hispanic,49
+2014,320,355,8,Female,Hispanic,38
+2014,320,356,10,Female,Hispanic,38
+2014,320,356,11,Female,Hispanic,30
+2014,320,356,12,Female,Hispanic,23
+2014,320,356,9,Female,Hispanic,27
+2014,320,360,1,Female,Hispanic,13
+2014,320,360,2,Female,Hispanic,15
+2014,320,360,3,Female,Hispanic,15
+2014,320,360,4,Female,Hispanic,15
+2014,320,360,5,Female,Hispanic,15
+2014,320,360,0,Female,Hispanic,15
+2014,320,362,1,Female,Hispanic,14
+2014,320,362,2,Female,Hispanic,12
+2014,320,362,3,Female,Hispanic,12
+2014,320,362,4,Female,Hispanic,11
+2014,320,362,5,Female,Hispanic,13
+2014,320,362,0,Female,Hispanic,7
+2014,320,363,1,Female,Hispanic,12
+2014,320,363,2,Female,Hispanic,14
+2014,320,363,3,Female,Hispanic,9
+2014,320,363,4,Female,Hispanic,2
+2014,320,363,5,Female,Hispanic,11
+2014,320,363,0,Female,Hispanic,7
+2014,320,364,1,Female,Hispanic,3
+2014,320,364,2,Female,Hispanic,8
+2014,320,364,3,Female,Hispanic,6
+2014,320,364,4,Female,Hispanic,10
+2014,320,364,5,Female,Hispanic,6
+2014,320,364,0,Female,Hispanic,8
+2014,320,365,10,Female,Hispanic,49
+2014,320,365,11,Female,Hispanic,36
+2014,320,365,12,Female,Hispanic,39
+2014,320,365,9,Female,Hispanic,75
+2014,320,366,6,Female,Hispanic,52
+2014,320,366,7,Female,Hispanic,56
+2014,320,366,8,Female,Hispanic,31
+2014,320,367,1,Female,Hispanic,10
+2014,320,367,2,Female,Hispanic,13
+2014,320,367,3,Female,Hispanic,10
+2014,320,367,4,Female,Hispanic,5
+2014,320,367,5,Female,Hispanic,9
+2014,320,367,0,Female,Hispanic,9
+2014,320,368,10,Female,Hispanic,29
+2014,320,368,11,Female,Hispanic,22
+2014,320,368,12,Female,Hispanic,20
+2014,320,368,9,Female,Hispanic,36
+2014,320,369,1,Female,Hispanic,10
+2014,320,369,2,Female,Hispanic,18
+2014,320,369,3,Female,Hispanic,13
+2014,320,369,4,Female,Hispanic,13
+2014,320,369,5,Female,Hispanic,8
+2014,320,369,0,Female,Hispanic,13
+2014,320,370,6,Female,Hispanic,25
+2014,320,370,7,Female,Hispanic,16
+2014,320,370,8,Female,Hispanic,22
+2014,320,372,1,Female,Hispanic,14
+2014,320,372,2,Female,Hispanic,11
+2014,320,372,3,Female,Hispanic,7
+2014,320,372,4,Female,Hispanic,8
+2014,320,372,5,Female,Hispanic,3
+2014,320,372,0,Female,Hispanic,8
+2014,320,374,1,Female,Hispanic,3
+2014,320,374,2,Female,Hispanic,4
+2014,320,374,3,Female,Hispanic,1
+2014,320,374,5,Female,Hispanic,4
+2014,320,374,0,Female,Hispanic,3
+2014,320,376,1,Female,Hispanic,13
+2014,320,376,2,Female,Hispanic,16
+2014,320,376,3,Female,Hispanic,11
+2014,320,376,4,Female,Hispanic,11
+2014,320,376,5,Female,Hispanic,8
+2014,320,376,0,Female,Hispanic,17
+2014,320,388,1,Female,Hispanic,19
+2014,320,388,2,Female,Hispanic,9
+2014,320,388,3,Female,Hispanic,14
+2014,320,388,4,Female,Hispanic,12
+2014,320,388,5,Female,Hispanic,8
+2014,320,388,0,Female,Hispanic,14
+2014,320,389,8,Female,Hispanic,18
+2014,320,400,1,Female,Hispanic,13
+2014,320,400,2,Female,Hispanic,17
+2014,320,400,3,Female,Hispanic,16
+2014,320,400,4,Female,Hispanic,8
+2014,320,400,5,Female,Hispanic,14
+2014,320,400,0,Female,Hispanic,10
+2014,320,700,10,Female,Hispanic,1
+2014,320,700,11,Female,Hispanic,2
+2014,320,700,9,Female,Hispanic,4
+2014,320,701,10,Female,Hispanic,1
+2014,320,701,11,Female,Hispanic,4
+2014,320,701,12,Female,Hispanic,5
+2014,320,701,9,Female,Hispanic,3
+2014,32A,000,1,Female,Hispanic,14
+2014,32A,000,2,Female,Hispanic,9
+2014,32A,000,3,Female,Hispanic,10
+2014,32A,000,4,Female,Hispanic,11
+2014,32A,000,5,Female,Hispanic,11
+2014,32A,000,6,Female,Hispanic,14
+2014,32A,000,7,Female,Hispanic,10
+2014,32A,000,8,Female,Hispanic,4
+2014,32A,000,0,Female,Hispanic,11
+2014,32B,000,1,Female,Hispanic,3
+2014,32B,000,2,Female,Hispanic,3
+2014,32B,000,3,Female,Hispanic,4
+2014,32B,000,4,Female,Hispanic,2
+2014,32B,000,5,Female,Hispanic,2
+2014,32C,000,1,Female,Hispanic,1
+2014,32C,000,7,Female,Hispanic,2
+2014,32C,000,0,Female,Hispanic,1
+2014,32D,000,1,Female,Hispanic,3
+2014,32D,000,2,Female,Hispanic,1
+2014,32D,000,3,Female,Hispanic,3
+2014,32D,000,4,Female,Hispanic,3
+2014,32D,000,5,Female,Hispanic,2
+2014,32D,000,6,Female,Hispanic,3
+2014,32D,000,7,Female,Hispanic,6
+2014,32D,000,8,Female,Hispanic,3
+2014,32D,000,9,Female,Hispanic,3
+2014,32D,000,10,Female,Hispanic,8
+2014,32D,000,11,Female,Hispanic,8
+2014,32D,000,12,Female,Hispanic,2
+2014,32D,000,0,Female,Hispanic,1
+2014,32H,000,1,Female,Hispanic,5
+2014,32H,000,2,Female,Hispanic,6
+2014,32H,000,3,Female,Hispanic,7
+2014,32H,000,4,Female,Hispanic,6
+2014,32H,000,5,Female,Hispanic,3
+2014,32H,000,6,Female,Hispanic,8
+2014,32H,000,7,Female,Hispanic,10
+2014,32H,000,8,Female,Hispanic,11
+2014,32H,000,0,Female,Hispanic,4
+2014,32K,000,1,Female,Hispanic,2
+2014,32K,000,2,Female,Hispanic,2
+2014,32K,000,4,Female,Hispanic,2
+2014,32K,000,5,Female,Hispanic,1
+2014,32L,000,1,Female,Hispanic,4
+2014,32L,000,2,Female,Hispanic,2
+2014,32L,000,3,Female,Hispanic,1
+2014,32L,000,4,Female,Hispanic,1
+2014,32L,000,5,Female,Hispanic,1
+2014,32L,000,6,Female,Hispanic,2
+2014,32L,000,7,Female,Hispanic,1
+2014,32L,000,9,Female,Hispanic,2
+2014,32L,000,10,Female,Hispanic,1
+2014,32L,000,12,Female,Hispanic,1
+2014,32L,000,0,Female,Hispanic,1
+2014,32M,000,1,Female,Hispanic,3
+2014,32M,000,2,Female,Hispanic,1
+2014,32M,000,3,Female,Hispanic,2
+2014,32M,000,4,Female,Hispanic,1
+2014,32M,000,6,Female,Hispanic,5
+2014,32M,000,0,Female,Hispanic,5
+2014,32N,000,9,Female,Hispanic,9
+2014,32N,000,10,Female,Hispanic,3
+2014,320,304,1,Male,Black,35
+2014,320,304,2,Male,Black,43
+2014,320,304,3,Male,Black,29
+2014,320,304,4,Male,Black,17
+2014,320,304,5,Male,Black,22
+2014,320,304,0,Male,Black,56
+2014,320,306,6,Male,Black,39
+2014,320,306,7,Male,Black,47
+2014,320,306,8,Male,Black,62
+2014,320,308,1,Male,Black,14
+2014,320,308,2,Male,Black,14
+2014,320,308,3,Male,Black,15
+2014,320,308,4,Male,Black,10
+2014,320,308,5,Male,Black,16
+2014,320,308,0,Male,Black,19
+2014,320,309,10,Male,Black,18
+2014,320,309,11,Male,Black,25
+2014,320,309,12,Male,Black,15
+2014,320,309,9,Male,Black,29
+2014,320,310,1,Male,Black,40
+2014,320,310,2,Male,Black,22
+2014,320,310,3,Male,Black,16
+2014,320,310,4,Male,Black,21
+2014,320,310,5,Male,Black,27
+2014,320,310,0,Male,Black,25
+2014,320,312,10,Male,Black,90
+2014,320,312,11,Male,Black,94
+2014,320,312,12,Male,Black,53
+2014,320,312,9,Male,Black,116
+2014,320,313,1,Male,Black,11
+2014,320,313,2,Male,Black,13
+2014,320,313,3,Male,Black,7
+2014,320,313,4,Male,Black,11
+2014,320,313,5,Male,Black,13
+2014,320,313,0,Male,Black,7
+2014,320,314,6,Male,Black,25
+2014,320,314,7,Male,Black,17
+2014,320,314,9,Male,Black,16
+2014,320,315,1,Male,Black,33
+2014,320,315,2,Male,Black,54
+2014,320,315,3,Male,Black,42
+2014,320,315,4,Male,Black,35
+2014,320,315,5,Male,Black,38
+2014,320,315,0,Male,Black,34
+2014,320,316,6,Male,Black,117
+2014,320,316,7,Male,Black,105
+2014,320,316,8,Male,Black,106
+2014,320,317,10,Male,Black,11
+2014,320,317,11,Male,Black,12
+2014,320,317,12,Male,Black,10
+2014,320,317,9,Male,Black,9
+2014,320,318,1,Male,Black,6
+2014,320,318,2,Male,Black,16
+2014,320,318,3,Male,Black,13
+2014,320,318,4,Male,Black,14
+2014,320,318,5,Male,Black,12
+2014,320,318,0,Male,Black,10
+2014,320,319,1,Male,Black,24
+2014,320,319,2,Male,Black,13
+2014,320,319,3,Male,Black,18
+2014,320,319,4,Male,Black,15
+2014,320,319,5,Male,Black,19
+2014,320,319,0,Male,Black,21
+2014,320,320,1,Male,Black,23
+2014,320,320,2,Male,Black,22
+2014,320,320,3,Male,Black,30
+2014,320,320,4,Male,Black,16
+2014,320,320,5,Male,Black,16
+2014,320,320,0,Male,Black,36
+2014,320,322,10,Male,Black,22
+2014,320,322,11,Male,Black,24
+2014,320,322,12,Male,Black,7
+2014,320,322,9,Male,Black,14
+2014,320,323,10,Male,Black,34
+2014,320,323,11,Male,Black,31
+2014,320,323,12,Male,Black,18
+2014,320,323,6,Male,Black,34
+2014,320,323,7,Male,Black,26
+2014,320,323,8,Male,Black,27
+2014,320,323,9,Male,Black,30
+2014,320,324,1,Male,Black,25
+2014,320,324,2,Male,Black,21
+2014,320,324,3,Male,Black,17
+2014,320,324,4,Male,Black,27
+2014,320,324,5,Male,Black,22
+2014,320,324,0,Male,Black,29
+2014,320,325,10,Male,Black,130
+2014,320,325,11,Male,Black,118
+2014,320,325,12,Male,Black,87
+2014,320,325,9,Male,Black,109
+2014,320,327,1,Male,Black,22
+2014,320,327,2,Male,Black,15
+2014,320,327,3,Male,Black,24
+2014,320,327,4,Male,Black,9
+2014,320,327,5,Male,Black,16
+2014,320,327,0,Male,Black,21
+2014,320,328,1,Male,Black,23
+2014,320,328,2,Male,Black,15
+2014,320,328,3,Male,Black,17
+2014,320,328,4,Male,Black,15
+2014,320,328,5,Male,Black,20
+2014,320,328,0,Male,Black,18
+2014,320,332,1,Male,Black,15
+2014,320,332,2,Male,Black,11
+2014,320,332,3,Male,Black,8
+2014,320,332,4,Male,Black,11
+2014,320,332,5,Male,Black,18
+2014,320,332,0,Male,Black,26
+2014,320,336,10,Male,Black,1
+2014,320,336,11,Male,Black,2
+2014,320,336,5,Male,Black,
+2014,320,336,6,Male,Black,3
+2014,320,336,7,Male,Black,1
+2014,320,336,8,Male,Black,3
+2014,320,336,0,Male,Black,1
+2014,320,338,6,Male,Black,74
+2014,320,338,7,Male,Black,71
+2014,320,338,8,Male,Black,68
+2014,320,339,1,Male,Black,14
+2014,320,339,2,Male,Black,14
+2014,320,339,3,Male,Black,16
+2014,320,339,4,Male,Black,14
+2014,320,339,5,Male,Black,14
+2014,320,339,0,Male,Black,18
+2014,320,340,1,Male,Black,14
+2014,320,340,2,Male,Black,11
+2014,320,340,3,Male,Black,9
+2014,320,340,4,Male,Black,8
+2014,320,340,5,Male,Black,14
+2014,320,340,0,Male,Black,5
+2014,320,341,10,Male,Black,13
+2014,320,341,11,Male,Black,8
+2014,320,341,12,Male,Black,3
+2014,320,341,6,Male,Black,1
+2014,320,341,7,Male,Black,4
+2014,320,341,8,Male,Black,7
+2014,320,341,9,Male,Black,25
+2014,320,342,6,Male,Black,14
+2014,320,342,7,Male,Black,21
+2014,320,342,8,Male,Black,23
+2014,320,343,6,Male,Black,59
+2014,320,343,7,Male,Black,51
+2014,320,343,8,Male,Black,43
+2014,320,344,1,Male,Black,13
+2014,320,344,2,Male,Black,17
+2014,320,344,3,Male,Black,11
+2014,320,344,4,Male,Black,12
+2014,320,344,5,Male,Black,19
+2014,320,344,0,Male,Black,16
+2014,320,346,6,Male,Black,80
+2014,320,346,7,Male,Black,83
+2014,320,346,8,Male,Black,84
+2014,320,347,1,Male,Black,8
+2014,320,347,2,Male,Black,6
+2014,320,347,3,Male,Black,6
+2014,320,347,4,Male,Black,7
+2014,320,347,5,Male,Black,5
+2014,320,347,0,Male,Black,5
+2014,320,348,1,Male,Black,3
+2014,320,348,2,Male,Black,5
+2014,320,348,3,Male,Black,2
+2014,320,348,4,Male,Black,2
+2014,320,348,5,Male,Black,9
+2014,320,348,0,Male,Black,3
+2014,320,352,1,Male,Black,27
+2014,320,352,2,Male,Black,36
+2014,320,352,3,Male,Black,30
+2014,320,352,4,Male,Black,17
+2014,320,352,5,Male,Black,24
+2014,320,352,0,Male,Black,35
+2014,320,353,11,Male,Black,4
+2014,320,353,12,Male,Black,1
+2014,320,354,1,Male,Black,5
+2014,320,354,2,Male,Black,4
+2014,320,354,3,Male,Black,4
+2014,320,354,4,Male,Black,6
+2014,320,354,5,Male,Black,6
+2014,320,354,0,Male,Black,10
+2014,320,355,6,Male,Black,72
+2014,320,355,7,Male,Black,105
+2014,320,355,8,Male,Black,102
+2014,320,356,10,Male,Black,107
+2014,320,356,11,Male,Black,107
+2014,320,356,12,Male,Black,73
+2014,320,356,9,Male,Black,122
+2014,320,360,1,Male,Black,31
+2014,320,360,2,Male,Black,29
+2014,320,360,3,Male,Black,29
+2014,320,360,4,Male,Black,23
+2014,320,360,5,Male,Black,28
+2014,320,360,0,Male,Black,31
+2014,320,362,1,Male,Black,29
+2014,320,362,2,Male,Black,23
+2014,320,362,3,Male,Black,23
+2014,320,362,4,Male,Black,25
+2014,320,362,5,Male,Black,26
+2014,320,362,0,Male,Black,37
+2014,320,363,1,Male,Black,6
+2014,320,363,2,Male,Black,11
+2014,320,363,3,Male,Black,14
+2014,320,363,4,Male,Black,11
+2014,320,363,5,Male,Black,12
+2014,320,363,0,Male,Black,7
+2014,320,364,1,Male,Black,40
+2014,320,364,2,Male,Black,29
+2014,320,364,3,Male,Black,41
+2014,320,364,4,Male,Black,36
+2014,320,364,5,Male,Black,36
+2014,320,364,0,Male,Black,30
+2014,320,365,10,Male,Black,109
+2014,320,365,11,Male,Black,106
+2014,320,365,12,Male,Black,80
+2014,320,365,9,Male,Black,126
+2014,320,366,6,Male,Black,79
+2014,320,366,7,Male,Black,84
+2014,320,366,8,Male,Black,81
+2014,320,367,1,Male,Black,15
+2014,320,367,2,Male,Black,24
+2014,320,367,3,Male,Black,22
+2014,320,367,4,Male,Black,19
+2014,320,367,5,Male,Black,12
+2014,320,367,0,Male,Black,12
+2014,320,368,10,Male,Black,78
+2014,320,368,11,Male,Black,83
+2014,320,368,12,Male,Black,57
+2014,320,368,9,Male,Black,113
+2014,320,369,1,Male,Black,18
+2014,320,369,2,Male,Black,26
+2014,320,369,3,Male,Black,21
+2014,320,369,4,Male,Black,20
+2014,320,369,5,Male,Black,18
+2014,320,369,0,Male,Black,30
+2014,320,370,6,Male,Black,55
+2014,320,370,7,Male,Black,49
+2014,320,370,8,Male,Black,68
+2014,320,372,1,Male,Black,36
+2014,320,372,2,Male,Black,34
+2014,320,372,3,Male,Black,26
+2014,320,372,4,Male,Black,25
+2014,320,372,5,Male,Black,34
+2014,320,372,0,Male,Black,36
+2014,320,374,1,Male,Black,20
+2014,320,374,2,Male,Black,26
+2014,320,374,3,Male,Black,18
+2014,320,374,4,Male,Black,15
+2014,320,374,5,Male,Black,18
+2014,320,374,0,Male,Black,24
+2014,320,376,1,Male,Black,27
+2014,320,376,2,Male,Black,34
+2014,320,376,3,Male,Black,16
+2014,320,376,4,Male,Black,28
+2014,320,376,5,Male,Black,21
+2014,320,376,0,Male,Black,37
+2014,320,388,1,Male,Black,29
+2014,320,388,2,Male,Black,29
+2014,320,388,3,Male,Black,27
+2014,320,388,4,Male,Black,30
+2014,320,388,5,Male,Black,34
+2014,320,388,0,Male,Black,40
+2014,320,389,8,Male,Black,18
+2014,320,400,1,Male,Black,16
+2014,320,400,2,Male,Black,27
+2014,320,400,3,Male,Black,12
+2014,320,400,4,Male,Black,15
+2014,320,400,5,Male,Black,14
+2014,320,400,0,Male,Black,17
+2014,320,700,10,Male,Black,36
+2014,320,700,11,Male,Black,42
+2014,320,700,12,Male,Black,27
+2014,320,700,9,Male,Black,45
+2014,320,701,10,Male,Black,46
+2014,320,701,11,Male,Black,44
+2014,320,701,12,Male,Black,32
+2014,320,701,9,Male,Black,45
+2014,32A,000,1,Male,Black,19
+2014,32A,000,2,Male,Black,16
+2014,32A,000,3,Male,Black,17
+2014,32A,000,4,Male,Black,6
+2014,32A,000,5,Male,Black,20
+2014,32A,000,6,Male,Black,19
+2014,32A,000,7,Male,Black,9
+2014,32A,000,8,Male,Black,11
+2014,32A,000,0,Male,Black,19
+2014,32B,000,1,Male,Black,25
+2014,32B,000,2,Male,Black,15
+2014,32B,000,3,Male,Black,19
+2014,32B,000,4,Male,Black,17
+2014,32B,000,5,Male,Black,15
+2014,32B,000,6,Male,Black,24
+2014,32B,000,7,Male,Black,12
+2014,32B,000,8,Male,Black,13
+2014,32B,000,0,Male,Black,23
+2014,32C,000,1,Male,Black,18
+2014,32C,000,2,Male,Black,11
+2014,32C,000,3,Male,Black,7
+2014,32C,000,4,Male,Black,14
+2014,32C,000,5,Male,Black,17
+2014,32C,000,6,Male,Black,22
+2014,32C,000,7,Male,Black,12
+2014,32C,000,8,Male,Black,21
+2014,32C,000,0,Male,Black,14
+2014,32D,000,1,Male,Black,11
+2014,32D,000,2,Male,Black,15
+2014,32D,000,3,Male,Black,13
+2014,32D,000,4,Male,Black,16
+2014,32D,000,5,Male,Black,22
+2014,32D,000,6,Male,Black,17
+2014,32D,000,7,Male,Black,22
+2014,32D,000,8,Male,Black,21
+2014,32D,000,9,Male,Black,29
+2014,32D,000,10,Male,Black,27
+2014,32D,000,11,Male,Black,27
+2014,32D,000,12,Male,Black,22
+2014,32D,000,0,Male,Black,10
+2014,32H,000,1,Male,Black,23
+2014,32H,000,2,Male,Black,34
+2014,32H,000,3,Male,Black,34
+2014,32H,000,4,Male,Black,28
+2014,32H,000,5,Male,Black,18
+2014,32H,000,6,Male,Black,18
+2014,32H,000,7,Male,Black,25
+2014,32H,000,8,Male,Black,24
+2014,32H,000,0,Male,Black,31
+2014,32K,000,1,Male,Black,9
+2014,32K,000,2,Male,Black,3
+2014,32K,000,3,Male,Black,8
+2014,32K,000,4,Male,Black,2
+2014,32K,000,5,Male,Black,2
+2014,32K,000,0,Male,Black,6
+2014,32L,000,1,Male,Black,9
+2014,32L,000,2,Male,Black,11
+2014,32L,000,3,Male,Black,12
+2014,32L,000,4,Male,Black,5
+2014,32L,000,5,Male,Black,10
+2014,32L,000,6,Male,Black,10
+2014,32L,000,7,Male,Black,7
+2014,32L,000,8,Male,Black,8
+2014,32L,000,9,Male,Black,9
+2014,32L,000,10,Male,Black,8
+2014,32L,000,11,Male,Black,8
+2014,32L,000,12,Male,Black,8
+2014,32L,000,0,Male,Black,9
+2014,32M,000,1,Male,Black,3
+2014,32M,000,2,Male,Black,9
+2014,32M,000,3,Male,Black,8
+2014,32M,000,4,Male,Black,6
+2014,32M,000,5,Male,Black,3
+2014,32M,000,6,Male,Black,8
+2014,32M,000,0,Male,Black,9
+2014,32N,000,9,Male,Black,22
+2014,32N,000,10,Male,Black,14
+2014,32P,000,1,Male,Black,6
+2014,32P,000,2,Male,Black,4
+2014,32P,000,3,Male,Black,7
+2014,32P,000,4,Male,Black,5
+2014,32P,000,5,Male,Black,8
+2014,32P,000,0,Male,Black,6
+2014,320,304,1,Female,Black,31
+2014,320,304,2,Female,Black,29
+2014,320,304,3,Female,Black,24
+2014,320,304,4,Female,Black,30
+2014,320,304,5,Female,Black,36
+2014,320,304,0,Female,Black,34
+2014,320,306,6,Female,Black,60
+2014,320,306,7,Female,Black,48
+2014,320,306,8,Female,Black,59
+2014,320,308,1,Female,Black,14
+2014,320,308,2,Female,Black,5
+2014,320,308,3,Female,Black,15
+2014,320,308,4,Female,Black,14
+2014,320,308,5,Female,Black,12
+2014,320,308,0,Female,Black,9
+2014,320,309,10,Female,Black,34
+2014,320,309,11,Female,Black,40
+2014,320,309,12,Female,Black,35
+2014,320,309,9,Female,Black,34
+2014,320,310,1,Female,Black,28
+2014,320,310,2,Female,Black,22
+2014,320,310,3,Female,Black,32
+2014,320,310,4,Female,Black,24
+2014,320,310,5,Female,Black,19
+2014,320,310,0,Female,Black,28
+2014,320,312,10,Female,Black,96
+2014,320,312,11,Female,Black,64
+2014,320,312,12,Female,Black,56
+2014,320,312,9,Female,Black,106
+2014,320,313,1,Female,Black,8
+2014,320,313,2,Female,Black,5
+2014,320,313,3,Female,Black,13
+2014,320,313,4,Female,Black,5
+2014,320,313,5,Female,Black,9
+2014,320,313,0,Female,Black,12
+2014,320,314,6,Female,Black,23
+2014,320,314,7,Female,Black,12
+2014,320,314,9,Female,Black,27
+2014,320,315,1,Female,Black,30
+2014,320,315,2,Female,Black,41
+2014,320,315,3,Female,Black,28
+2014,320,315,4,Female,Black,41
+2014,320,315,5,Female,Black,41
+2014,320,315,0,Female,Black,33
+2014,320,316,6,Female,Black,77
+2014,320,316,7,Female,Black,96
+2014,320,316,8,Female,Black,102
+2014,320,317,10,Female,Black,44
+2014,320,317,11,Female,Black,39
+2014,320,317,12,Female,Black,41
+2014,320,317,9,Female,Black,31
+2014,320,318,1,Female,Black,10
+2014,320,318,2,Female,Black,19
+2014,320,318,3,Female,Black,11
+2014,320,318,4,Female,Black,12
+2014,320,318,5,Female,Black,15
+2014,320,318,0,Female,Black,8
+2014,320,319,1,Female,Black,30
+2014,320,319,2,Female,Black,27
+2014,320,319,3,Female,Black,13
+2014,320,319,4,Female,Black,12
+2014,320,319,5,Female,Black,26
+2014,320,319,0,Female,Black,18
+2014,320,320,1,Female,Black,30
+2014,320,320,2,Female,Black,22
+2014,320,320,3,Female,Black,20
+2014,320,320,4,Female,Black,19
+2014,320,320,5,Female,Black,31
+2014,320,320,0,Female,Black,25
+2014,320,322,10,Female,Black,24
+2014,320,322,11,Female,Black,33
+2014,320,322,12,Female,Black,10
+2014,320,322,9,Female,Black,16
+2014,320,323,10,Female,Black,55
+2014,320,323,11,Female,Black,59
+2014,320,323,12,Female,Black,55
+2014,320,323,6,Female,Black,55
+2014,320,323,7,Female,Black,52
+2014,320,323,8,Female,Black,55
+2014,320,323,9,Female,Black,69
+2014,320,324,1,Female,Black,27
+2014,320,324,2,Female,Black,25
+2014,320,324,3,Female,Black,22
+2014,320,324,4,Female,Black,12
+2014,320,324,5,Female,Black,22
+2014,320,324,0,Female,Black,22
+2014,320,325,10,Female,Black,133
+2014,320,325,11,Female,Black,155
+2014,320,325,12,Female,Black,155
+2014,320,325,9,Female,Black,143
+2014,320,327,1,Female,Black,19
+2014,320,327,2,Female,Black,17
+2014,320,327,3,Female,Black,24
+2014,320,327,4,Female,Black,9
+2014,320,327,5,Female,Black,21
+2014,320,327,0,Female,Black,17
+2014,320,328,1,Female,Black,18
+2014,320,328,2,Female,Black,16
+2014,320,328,3,Female,Black,18
+2014,320,328,4,Female,Black,15
+2014,320,328,5,Female,Black,13
+2014,320,328,0,Female,Black,29
+2014,320,332,1,Female,Black,20
+2014,320,332,2,Female,Black,10
+2014,320,332,3,Female,Black,13
+2014,320,332,4,Female,Black,12
+2014,320,332,5,Female,Black,9
+2014,320,332,0,Female,Black,22
+2014,320,336,1,Female,Black,
+2014,320,336,11,Female,Black,2
+2014,320,336,3,Female,Black,
+2014,320,336,4,Female,Black,
+2014,320,336,5,Female,Black,1
+2014,320,336,6,Female,Black,1
+2014,320,336,7,Female,Black,2
+2014,320,336,8,Female,Black,1
+2014,320,336,0,Female,Black,1
+2014,320,338,6,Female,Black,63
+2014,320,338,7,Female,Black,53
+2014,320,338,8,Female,Black,68
+2014,320,339,1,Female,Black,10
+2014,320,339,2,Female,Black,13
+2014,320,339,3,Female,Black,12
+2014,320,339,4,Female,Black,12
+2014,320,339,5,Female,Black,16
+2014,320,339,0,Female,Black,18
+2014,320,340,1,Female,Black,5
+2014,320,340,2,Female,Black,5
+2014,320,340,3,Female,Black,6
+2014,320,340,4,Female,Black,14
+2014,320,340,5,Female,Black,19
+2014,320,340,0,Female,Black,5
+2014,320,341,10,Female,Black,3
+2014,320,341,11,Female,Black,2
+2014,320,341,12,Female,Black,
+2014,320,341,6,Female,Black,3
+2014,320,341,7,Female,Black,1
+2014,320,341,8,Female,Black,2
+2014,320,341,9,Female,Black,5
+2014,320,342,6,Female,Black,15
+2014,320,342,7,Female,Black,10
+2014,320,342,8,Female,Black,15
+2014,320,343,6,Female,Black,61
+2014,320,343,7,Female,Black,43
+2014,320,343,8,Female,Black,34
+2014,320,344,1,Female,Black,14
+2014,320,344,2,Female,Black,20
+2014,320,344,3,Female,Black,17
+2014,320,344,4,Female,Black,9
+2014,320,344,5,Female,Black,14
+2014,320,344,0,Female,Black,17
+2014,320,346,6,Female,Black,98
+2014,320,346,7,Female,Black,70
+2014,320,346,8,Female,Black,62
+2014,320,347,1,Female,Black,9
+2014,320,347,2,Female,Black,8
+2014,320,347,3,Female,Black,6
+2014,320,347,4,Female,Black,2
+2014,320,347,5,Female,Black,7
+2014,320,347,0,Female,Black,3
+2014,320,348,1,Female,Black,3
+2014,320,348,2,Female,Black,3
+2014,320,348,3,Female,Black,6
+2014,320,348,4,Female,Black,3
+2014,320,348,5,Female,Black,3
+2014,320,348,0,Female,Black,1
+2014,320,352,1,Female,Black,37
+2014,320,352,2,Female,Black,37
+2014,320,352,3,Female,Black,32
+2014,320,352,4,Female,Black,18
+2014,320,352,5,Female,Black,30
+2014,320,352,0,Female,Black,31
+2014,320,353,11,Female,Black,15
+2014,320,353,12,Female,Black,13
+2014,320,354,1,Female,Black,4
+2014,320,354,2,Female,Black,4
+2014,320,354,3,Female,Black,6
+2014,320,354,4,Female,Black,7
+2014,320,354,5,Female,Black,3
+2014,320,354,0,Female,Black,5
+2014,320,355,6,Female,Black,79
+2014,320,355,7,Female,Black,78
+2014,320,355,8,Female,Black,93
+2014,320,356,10,Female,Black,81
+2014,320,356,11,Female,Black,83
+2014,320,356,12,Female,Black,67
+2014,320,356,9,Female,Black,94
+2014,320,360,1,Female,Black,22
+2014,320,360,2,Female,Black,24
+2014,320,360,3,Female,Black,33
+2014,320,360,4,Female,Black,22
+2014,320,360,5,Female,Black,21
+2014,320,360,0,Female,Black,29
+2014,320,362,1,Female,Black,17
+2014,320,362,2,Female,Black,21
+2014,320,362,3,Female,Black,22
+2014,320,362,4,Female,Black,22
+2014,320,362,5,Female,Black,15
+2014,320,362,0,Female,Black,23
+2014,320,363,1,Female,Black,12
+2014,320,363,2,Female,Black,9
+2014,320,363,3,Female,Black,14
+2014,320,363,4,Female,Black,7
+2014,320,363,5,Female,Black,3
+2014,320,363,0,Female,Black,13
+2014,320,364,1,Female,Black,30
+2014,320,364,2,Female,Black,43
+2014,320,364,3,Female,Black,34
+2014,320,364,4,Female,Black,40
+2014,320,364,5,Female,Black,50
+2014,320,364,0,Female,Black,35
+2014,320,365,10,Female,Black,105
+2014,320,365,11,Female,Black,84
+2014,320,365,12,Female,Black,90
+2014,320,365,9,Female,Black,86
+2014,320,366,6,Female,Black,63
+2014,320,366,7,Female,Black,87
+2014,320,366,8,Female,Black,83
+2014,320,367,1,Female,Black,21
+2014,320,367,2,Female,Black,19
+2014,320,367,3,Female,Black,21
+2014,320,367,4,Female,Black,13
+2014,320,367,5,Female,Black,26
+2014,320,367,0,Female,Black,24
+2014,320,368,10,Female,Black,95
+2014,320,368,11,Female,Black,71
+2014,320,368,12,Female,Black,70
+2014,320,368,9,Female,Black,111
+2014,320,369,1,Female,Black,34
+2014,320,369,2,Female,Black,30
+2014,320,369,3,Female,Black,34
+2014,320,369,4,Female,Black,34
+2014,320,369,5,Female,Black,43
+2014,320,369,0,Female,Black,22
+2014,320,370,6,Female,Black,65
+2014,320,370,7,Female,Black,71
+2014,320,370,8,Female,Black,53
+2014,320,372,1,Female,Black,29
+2014,320,372,2,Female,Black,28
+2014,320,372,3,Female,Black,25
+2014,320,372,4,Female,Black,28
+2014,320,372,5,Female,Black,39
+2014,320,372,0,Female,Black,26
+2014,320,374,1,Female,Black,22
+2014,320,374,2,Female,Black,10
+2014,320,374,3,Female,Black,14
+2014,320,374,4,Female,Black,17
+2014,320,374,5,Female,Black,17
+2014,320,374,0,Female,Black,19
+2014,320,376,1,Female,Black,27
+2014,320,376,2,Female,Black,23
+2014,320,376,3,Female,Black,23
+2014,320,376,4,Female,Black,38
+2014,320,376,5,Female,Black,21
+2014,320,376,0,Female,Black,27
+2014,320,388,1,Female,Black,14
+2014,320,388,2,Female,Black,27
+2014,320,388,3,Female,Black,28
+2014,320,388,4,Female,Black,39
+2014,320,388,5,Female,Black,32
+2014,320,388,0,Female,Black,25
+2014,320,389,8,Female,Black,23
+2014,320,400,1,Female,Black,17
+2014,320,400,2,Female,Black,14
+2014,320,400,3,Female,Black,21
+2014,320,400,4,Female,Black,11
+2014,320,400,5,Female,Black,8
+2014,320,400,0,Female,Black,32
+2014,320,700,10,Female,Black,15
+2014,320,700,11,Female,Black,22
+2014,320,700,12,Female,Black,10
+2014,320,700,9,Female,Black,14
+2014,320,701,10,Female,Black,26
+2014,320,701,11,Female,Black,27
+2014,320,701,12,Female,Black,17
+2014,320,701,9,Female,Black,31
+2014,32A,000,1,Female,Black,14
+2014,32A,000,2,Female,Black,15
+2014,32A,000,3,Female,Black,11
+2014,32A,000,4,Female,Black,14
+2014,32A,000,5,Female,Black,17
+2014,32A,000,6,Female,Black,20
+2014,32A,000,7,Female,Black,13
+2014,32A,000,8,Female,Black,16
+2014,32A,000,0,Female,Black,28
+2014,32B,000,1,Female,Black,25
+2014,32B,000,2,Female,Black,20
+2014,32B,000,3,Female,Black,19
+2014,32B,000,4,Female,Black,17
+2014,32B,000,5,Female,Black,15
+2014,32B,000,6,Female,Black,21
+2014,32B,000,7,Female,Black,10
+2014,32B,000,8,Female,Black,12
+2014,32B,000,0,Female,Black,24
+2014,32C,000,1,Female,Black,10
+2014,32C,000,2,Female,Black,18
+2014,32C,000,3,Female,Black,15
+2014,32C,000,4,Female,Black,9
+2014,32C,000,5,Female,Black,7
+2014,32C,000,6,Female,Black,18
+2014,32C,000,7,Female,Black,18
+2014,32C,000,8,Female,Black,16
+2014,32C,000,0,Female,Black,12
+2014,32D,000,1,Female,Black,8
+2014,32D,000,2,Female,Black,16
+2014,32D,000,3,Female,Black,9
+2014,32D,000,4,Female,Black,9
+2014,32D,000,5,Female,Black,13
+2014,32D,000,6,Female,Black,21
+2014,32D,000,7,Female,Black,15
+2014,32D,000,8,Female,Black,21
+2014,32D,000,9,Female,Black,32
+2014,32D,000,10,Female,Black,17
+2014,32D,000,11,Female,Black,19
+2014,32D,000,12,Female,Black,7
+2014,32D,000,0,Female,Black,11
+2014,32H,000,1,Female,Black,32
+2014,32H,000,2,Female,Black,22
+2014,32H,000,3,Female,Black,29
+2014,32H,000,4,Female,Black,27
+2014,32H,000,5,Female,Black,29
+2014,32H,000,6,Female,Black,28
+2014,32H,000,7,Female,Black,18
+2014,32H,000,8,Female,Black,21
+2014,32H,000,0,Female,Black,30
+2014,32K,000,1,Female,Black,4
+2014,32K,000,2,Female,Black,7
+2014,32K,000,3,Female,Black,6
+2014,32K,000,4,Female,Black,3
+2014,32K,000,5,Female,Black,5
+2014,32K,000,0,Female,Black,5
+2014,32L,000,1,Female,Black,8
+2014,32L,000,2,Female,Black,5
+2014,32L,000,3,Female,Black,11
+2014,32L,000,4,Female,Black,13
+2014,32L,000,5,Female,Black,6
+2014,32L,000,6,Female,Black,13
+2014,32L,000,7,Female,Black,8
+2014,32L,000,8,Female,Black,10
+2014,32L,000,9,Female,Black,1
+2014,32L,000,10,Female,Black,6
+2014,32L,000,11,Female,Black,10
+2014,32L,000,12,Female,Black,6
+2014,32L,000,0,Female,Black,12
+2014,32M,000,1,Female,Black,9
+2014,32M,000,2,Female,Black,7
+2014,32M,000,3,Female,Black,9
+2014,32M,000,4,Female,Black,9
+2014,32M,000,5,Female,Black,9
+2014,32M,000,6,Female,Black,4
+2014,32M,000,0,Female,Black,4
+2014,32N,000,9,Female,Black,21
+2014,32N,000,10,Female,Black,19
+2014,32P,000,1,Female,Black,4
+2014,32P,000,2,Female,Black,3
+2014,32P,000,3,Female,Black,5
+2014,32P,000,4,Female,Black,4
+2014,32P,000,5,Female,Black,6
+2014,32P,000,0,Female,Black,11
+2014,320,304,1,Male,White,6
+2014,320,304,2,Male,White,5
+2014,320,304,3,Male,White,2
+2014,320,304,4,Male,White,1
+2014,320,304,5,Male,White,3
+2014,320,304,0,Male,White,9
+2014,320,306,6,Male,White,19
+2014,320,306,7,Male,White,12
+2014,320,306,8,Male,White,29
+2014,320,308,1,Male,White,2
+2014,320,308,2,Male,White,2
+2014,320,308,5,Male,White,2
+2014,320,308,0,Male,White,1
+2014,320,309,12,Male,White,1
+2014,320,309,9,Male,White,1
+2014,320,310,1,Male,White,1
+2014,320,310,4,Male,White,2
+2014,320,310,5,Male,White,2
+2014,320,310,0,Male,White,2
+2014,320,312,10,Male,White,60
+2014,320,312,11,Male,White,73
+2014,320,312,12,Male,White,90
+2014,320,312,9,Male,White,86
+2014,320,313,1,Male,White,25
+2014,320,313,2,Male,White,27
+2014,320,313,3,Male,White,29
+2014,320,313,4,Male,White,31
+2014,320,313,5,Male,White,33
+2014,320,313,0,Male,White,32
+2014,320,314,6,Male,White,20
+2014,320,314,7,Male,White,11
+2014,320,314,9,Male,White,8
+2014,320,315,1,Male,White,4
+2014,320,315,2,Male,White,3
+2014,320,315,3,Male,White,1
+2014,320,315,4,Male,White,2
+2014,320,315,5,Male,White,4
+2014,320,315,0,Male,White,2
+2014,320,316,6,Male,White,38
+2014,320,316,7,Male,White,44
+2014,320,316,8,Male,White,68
+2014,320,317,10,Male,White,2
+2014,320,317,11,Male,White,2
+2014,320,317,12,Male,White,1
+2014,320,318,1,Male,White,17
+2014,320,318,2,Male,White,15
+2014,320,318,3,Male,White,12
+2014,320,318,4,Male,White,15
+2014,320,318,5,Male,White,12
+2014,320,318,0,Male,White,15
+2014,320,319,1,Male,White,23
+2014,320,319,2,Male,White,26
+2014,320,319,3,Male,White,23
+2014,320,319,4,Male,White,19
+2014,320,319,5,Male,White,18
+2014,320,319,0,Male,White,29
+2014,320,320,1,Male,White,3
+2014,320,320,2,Male,White,3
+2014,320,320,3,Male,White,5
+2014,320,320,4,Male,White,3
+2014,320,320,5,Male,White,3
+2014,320,320,0,Male,White,6
+2014,320,322,10,Male,White,3
+2014,320,322,11,Male,White,3
+2014,320,322,12,Male,White,1
+2014,320,322,9,Male,White,2
+2014,320,323,10,Male,White,51
+2014,320,323,11,Male,White,35
+2014,320,323,12,Male,White,28
+2014,320,323,6,Male,White,28
+2014,320,323,7,Male,White,36
+2014,320,323,8,Male,White,32
+2014,320,323,9,Male,White,32
+2014,320,324,1,Male,White,22
+2014,320,324,2,Male,White,27
+2014,320,324,3,Male,White,18
+2014,320,324,4,Male,White,8
+2014,320,324,5,Male,White,23
+2014,320,324,0,Male,White,23
+2014,320,325,10,Male,White,3
+2014,320,325,11,Male,White,4
+2014,320,325,12,Male,White,4
+2014,320,325,9,Male,White,6
+2014,320,327,1,Male,White,9
+2014,320,327,2,Male,White,14
+2014,320,327,3,Male,White,11
+2014,320,327,4,Male,White,18
+2014,320,327,5,Male,White,16
+2014,320,327,0,Male,White,19
+2014,320,328,1,Male,White,1
+2014,320,328,3,Male,White,1
+2014,320,328,4,Male,White,1
+2014,320,328,5,Male,White,4
+2014,320,328,0,Male,White,8
+2014,320,332,1,Male,White,22
+2014,320,332,2,Male,White,13
+2014,320,332,3,Male,White,16
+2014,320,332,4,Male,White,21
+2014,320,332,5,Male,White,15
+2014,320,332,0,Male,White,16
+2014,320,336,1,Male,White,2
+2014,320,336,10,Male,White,3
+2014,320,336,11,Male,White,3
+2014,320,336,12,Male,White,2
+2014,320,336,2,Male,White,1
+2014,320,336,4,Male,White,1
+2014,320,336,5,Male,White,
+2014,320,336,6,Male,White,1
+2014,320,336,7,Male,White,1
+2014,320,336,8,Male,White,1
+2014,320,336,9,Male,White,3
+2014,320,336,0,Male,White,1
+2014,320,338,6,Male,White,1
+2014,320,338,7,Male,White,1
+2014,320,338,8,Male,White,1
+2014,320,339,1,Male,White,1
+2014,320,339,2,Male,White,2
+2014,320,339,4,Male,White,3
+2014,320,339,5,Male,White,1
+2014,320,339,0,Male,White,1
+2014,320,340,1,Male,White,18
+2014,320,340,2,Male,White,17
+2014,320,340,3,Male,White,19
+2014,320,340,4,Male,White,21
+2014,320,340,5,Male,White,18
+2014,320,340,0,Male,White,17
+2014,320,341,10,Male,White,1
+2014,320,341,7,Male,White,1
+2014,320,341,9,Male,White,1
+2014,320,342,6,Male,White,15
+2014,320,342,7,Male,White,14
+2014,320,342,8,Male,White,11
+2014,320,343,6,Male,White,26
+2014,320,343,7,Male,White,23
+2014,320,343,8,Male,White,21
+2014,320,346,6,Male,White,10
+2014,320,346,7,Male,White,7
+2014,320,346,8,Male,White,11
+2014,320,347,1,Male,White,12
+2014,320,347,2,Male,White,9
+2014,320,347,3,Male,White,5
+2014,320,347,4,Male,White,11
+2014,320,347,5,Male,White,8
+2014,320,347,0,Male,White,15
+2014,320,348,1,Male,White,35
+2014,320,348,2,Male,White,21
+2014,320,348,3,Male,White,26
+2014,320,348,4,Male,White,29
+2014,320,348,5,Male,White,20
+2014,320,348,0,Male,White,25
+2014,320,352,1,Male,White,3
+2014,320,352,2,Male,White,2
+2014,320,352,3,Male,White,3
+2014,320,352,4,Male,White,2
+2014,320,352,5,Male,White,2
+2014,320,352,0,Male,White,5
+2014,320,353,11,Male,White,12
+2014,320,353,12,Male,White,15
+2014,320,354,1,Male,White,5
+2014,320,354,2,Male,White,8
+2014,320,354,3,Male,White,8
+2014,320,354,4,Male,White,8
+2014,320,354,5,Male,White,2
+2014,320,354,0,Male,White,6
+2014,320,355,6,Male,White,10
+2014,320,355,7,Male,White,9
+2014,320,355,8,Male,White,6
+2014,320,356,10,Male,White,48
+2014,320,356,11,Male,White,29
+2014,320,356,12,Male,White,36
+2014,320,356,9,Male,White,41
+2014,320,360,1,Male,White,2
+2014,320,360,2,Male,White,3
+2014,320,360,3,Male,White,4
+2014,320,360,4,Male,White,1
+2014,320,360,5,Male,White,5
+2014,320,360,0,Male,White,10
+2014,320,362,1,Male,White,6
+2014,320,362,2,Male,White,4
+2014,320,362,3,Male,White,10
+2014,320,362,4,Male,White,6
+2014,320,362,5,Male,White,2
+2014,320,362,0,Male,White,14
+2014,320,363,1,Male,White,14
+2014,320,363,2,Male,White,9
+2014,320,363,3,Male,White,13
+2014,320,363,4,Male,White,2
+2014,320,363,5,Male,White,5
+2014,320,363,0,Male,White,15
+2014,320,364,1,Male,White,28
+2014,320,364,2,Male,White,18
+2014,320,364,3,Male,White,22
+2014,320,364,4,Male,White,16
+2014,320,364,5,Male,White,22
+2014,320,364,0,Male,White,21
+2014,320,365,10,Male,White,55
+2014,320,365,11,Male,White,56
+2014,320,365,12,Male,White,80
+2014,320,365,9,Male,White,70
+2014,320,366,6,Male,White,33
+2014,320,366,7,Male,White,33
+2014,320,366,8,Male,White,37
+2014,320,367,2,Male,White,1
+2014,320,367,5,Male,White,1
+2014,320,368,10,Male,White,2
+2014,320,368,11,Male,White,8
+2014,320,368,12,Male,White,8
+2014,320,368,9,Male,White,7
+2014,320,369,1,Male,White,9
+2014,320,369,2,Male,White,5
+2014,320,369,3,Male,White,5
+2014,320,369,5,Male,White,7
+2014,320,369,0,Male,White,9
+2014,320,370,6,Male,White,22
+2014,320,370,7,Male,White,17
+2014,320,370,8,Male,White,20
+2014,320,372,1,Male,White,7
+2014,320,372,2,Male,White,5
+2014,320,372,3,Male,White,13
+2014,320,372,4,Male,White,4
+2014,320,372,5,Male,White,4
+2014,320,372,0,Male,White,9
+2014,320,376,1,Male,White,5
+2014,320,376,2,Male,White,7
+2014,320,376,3,Male,White,12
+2014,320,376,4,Male,White,3
+2014,320,376,5,Male,White,3
+2014,320,376,0,Male,White,10
+2014,320,388,1,Male,White,3
+2014,320,388,3,Male,White,1
+2014,320,388,4,Male,White,1
+2014,320,388,5,Male,White,1
+2014,320,388,0,Male,White,1
+2014,320,389,8,Male,White,1
+2014,320,400,2,Male,White,1
+2014,320,700,11,Male,White,3
+2014,320,700,9,Male,White,4
+2014,320,701,10,Male,White,3
+2014,320,701,11,Male,White,3
+2014,320,701,12,Male,White,2
+2014,320,701,9,Male,White,5
+2014,32A,000,1,Male,White,2
+2014,32A,000,0,Male,White,1
+2014,32B,000,5,Male,White,1
+2014,32B,000,0,Male,White,1
+2014,32C,000,5,Male,White,1
+2014,32D,000,1,Male,White,22
+2014,32D,000,2,Male,White,17
+2014,32D,000,3,Male,White,17
+2014,32D,000,4,Male,White,19
+2014,32D,000,5,Male,White,19
+2014,32D,000,6,Male,White,29
+2014,32D,000,7,Male,White,18
+2014,32D,000,8,Male,White,16
+2014,32D,000,9,Male,White,11
+2014,32D,000,10,Male,White,14
+2014,32D,000,11,Male,White,14
+2014,32D,000,12,Male,White,15
+2014,32D,000,0,Male,White,12
+2014,32H,000,1,Male,White,1
+2014,32H,000,2,Male,White,3
+2014,32H,000,3,Male,White,1
+2014,32H,000,5,Male,White,1
+2014,32H,000,7,Male,White,1
+2014,32H,000,8,Male,White,2
+2014,32H,000,0,Male,White,2
+2014,32K,000,1,Male,White,24
+2014,32K,000,2,Male,White,23
+2014,32K,000,3,Male,White,19
+2014,32K,000,4,Male,White,17
+2014,32K,000,5,Male,White,14
+2014,32K,000,0,Male,White,11
+2014,32L,000,1,Male,White,30
+2014,32L,000,2,Male,White,29
+2014,32L,000,3,Male,White,26
+2014,32L,000,4,Male,White,41
+2014,32L,000,5,Male,White,48
+2014,32L,000,6,Male,White,40
+2014,32L,000,7,Male,White,36
+2014,32L,000,8,Male,White,37
+2014,32L,000,9,Male,White,46
+2014,32L,000,10,Male,White,49
+2014,32L,000,11,Male,White,50
+2014,32L,000,12,Male,White,52
+2014,32L,000,0,Male,White,35
+2014,32N,000,9,Male,White,54
+2014,32N,000,10,Male,White,31
+2014,320,304,1,Female,White,4
+2014,320,304,2,Female,White,4
+2014,320,304,4,Female,White,3
+2014,320,304,5,Female,White,5
+2014,320,304,0,Female,White,3
+2014,320,306,6,Female,White,18
+2014,320,306,7,Female,White,12
+2014,320,306,8,Female,White,18
+2014,320,308,1,Female,White,1
+2014,320,308,3,Female,White,2
+2014,320,308,0,Female,White,1
+2014,320,309,10,Female,White,2
+2014,320,309,11,Female,White,2
+2014,320,309,12,Female,White,1
+2014,320,309,9,Female,White,2
+2014,320,310,1,Female,White,2
+2014,320,310,0,Female,White,3
+2014,320,312,10,Female,White,53
+2014,320,312,11,Female,White,66
+2014,320,312,12,Female,White,87
+2014,320,312,9,Female,White,62
+2014,320,313,1,Female,White,31
+2014,320,313,2,Female,White,36
+2014,320,313,3,Female,White,25
+2014,320,313,4,Female,White,21
+2014,320,313,5,Female,White,29
+2014,320,313,0,Female,White,30
+2014,320,314,6,Female,White,14
+2014,320,314,7,Female,White,9
+2014,320,314,9,Female,White,9
+2014,320,315,1,Female,White,4
+2014,320,315,2,Female,White,2
+2014,320,315,3,Female,White,2
+2014,320,315,4,Female,White,1
+2014,320,315,5,Female,White,8
+2014,320,315,0,Female,White,4
+2014,320,316,6,Female,White,22
+2014,320,316,7,Female,White,46
+2014,320,316,8,Female,White,50
+2014,320,317,10,Female,White,7
+2014,320,317,11,Female,White,7
+2014,320,317,12,Female,White,3
+2014,320,317,9,Female,White,5
+2014,320,318,1,Female,White,15
+2014,320,318,2,Female,White,13
+2014,320,318,3,Female,White,9
+2014,320,318,4,Female,White,3
+2014,320,318,5,Female,White,7
+2014,320,318,0,Female,White,16
+2014,320,319,1,Female,White,28
+2014,320,319,2,Female,White,35
+2014,320,319,3,Female,White,27
+2014,320,319,4,Female,White,15
+2014,320,319,5,Female,White,18
+2014,320,319,0,Female,White,38
+2014,320,320,1,Female,White,7
+2014,320,320,2,Female,White,1
+2014,320,320,3,Female,White,2
+2014,320,320,5,Female,White,2
+2014,320,320,0,Female,White,6
+2014,320,322,10,Female,White,2
+2014,320,322,11,Female,White,1
+2014,320,322,12,Female,White,1
+2014,320,322,9,Female,White,3
+2014,320,323,10,Female,White,47
+2014,320,323,11,Female,White,59
+2014,320,323,12,Female,White,46
+2014,320,323,6,Female,White,44
+2014,320,323,7,Female,White,31
+2014,320,323,8,Female,White,20
+2014,320,323,9,Female,White,47
+2014,320,324,1,Female,White,18
+2014,320,324,2,Female,White,14
+2014,320,324,3,Female,White,17
+2014,320,324,4,Female,White,24
+2014,320,324,5,Female,White,19
+2014,320,324,0,Female,White,15
+2014,320,325,10,Female,White,2
+2014,320,325,11,Female,White,3
+2014,320,325,12,Female,White,3
+2014,320,327,1,Female,White,10
+2014,320,327,2,Female,White,13
+2014,320,327,3,Female,White,11
+2014,320,327,4,Female,White,17
+2014,320,327,5,Female,White,7
+2014,320,327,0,Female,White,13
+2014,320,328,1,Female,White,1
+2014,320,328,2,Female,White,4
+2014,320,328,3,Female,White,3
+2014,320,328,4,Female,White,2
+2014,320,328,5,Female,White,2
+2014,320,328,0,Female,White,3
+2014,320,332,1,Female,White,18
+2014,320,332,2,Female,White,24
+2014,320,332,3,Female,White,14
+2014,320,332,4,Female,White,16
+2014,320,332,5,Female,White,15
+2014,320,332,0,Female,White,22
+2014,320,336,1,Female,White,
+2014,320,336,10,Female,White,3
+2014,320,336,11,Female,White,1
+2014,320,336,12,Female,White,1
+2014,320,336,3,Female,White,
+2014,320,336,4,Female,White,
+2014,320,336,5,Female,White,2
+2014,320,336,6,Female,White,1
+2014,320,336,7,Female,White,1
+2014,320,336,8,Female,White,3
+2014,320,336,9,Female,White,2
+2014,320,338,7,Female,White,1
+2014,320,338,8,Female,White,1
+2014,320,339,2,Female,White,2
+2014,320,339,4,Female,White,1
+2014,320,339,5,Female,White,3
+2014,320,339,0,Female,White,1
+2014,320,340,1,Female,White,14
+2014,320,340,2,Female,White,17
+2014,320,340,3,Female,White,13
+2014,320,340,4,Female,White,17
+2014,320,340,5,Female,White,23
+2014,320,340,0,Female,White,13
+2014,320,341,12,Female,White,
+2014,320,341,8,Female,White,1
+2014,320,342,6,Female,White,24
+2014,320,342,7,Female,White,9
+2014,320,342,8,Female,White,9
+2014,320,343,6,Female,White,39
+2014,320,343,7,Female,White,39
+2014,320,343,8,Female,White,19
+2014,320,346,6,Female,White,7
+2014,320,346,7,Female,White,6
+2014,320,346,8,Female,White,4
+2014,320,347,1,Female,White,11
+2014,320,347,2,Female,White,9
+2014,320,347,3,Female,White,13
+2014,320,347,4,Female,White,7
+2014,320,347,5,Female,White,13
+2014,320,347,0,Female,White,16
+2014,320,348,1,Female,White,18
+2014,320,348,2,Female,White,25
+2014,320,348,3,Female,White,21
+2014,320,348,4,Female,White,14
+2014,320,348,5,Female,White,31
+2014,320,348,0,Female,White,22
+2014,320,352,1,Female,White,1
+2014,320,352,2,Female,White,3
+2014,320,352,3,Female,White,2
+2014,320,352,0,Female,White,5
+2014,320,353,11,Female,White,13
+2014,320,353,12,Female,White,19
+2014,320,354,1,Female,White,8
+2014,320,354,2,Female,White,10
+2014,320,354,3,Female,White,6
+2014,320,354,4,Female,White,4
+2014,320,354,5,Female,White,11
+2014,320,354,0,Female,White,5
+2014,320,355,6,Female,White,5
+2014,320,355,7,Female,White,6
+2014,320,355,8,Female,White,13
+2014,320,356,10,Female,White,37
+2014,320,356,11,Female,White,33
+2014,320,356,12,Female,White,36
+2014,320,356,9,Female,White,30
+2014,320,360,1,Female,White,5
+2014,320,360,2,Female,White,3
+2014,320,360,3,Female,White,1
+2014,320,360,4,Female,White,2
+2014,320,360,5,Female,White,2
+2014,320,360,0,Female,White,4
+2014,320,362,1,Female,White,11
+2014,320,362,2,Female,White,6
+2014,320,362,3,Female,White,6
+2014,320,362,4,Female,White,4
+2014,320,362,5,Female,White,6
+2014,320,362,0,Female,White,4
+2014,320,363,1,Female,White,15
+2014,320,363,2,Female,White,9
+2014,320,363,3,Female,White,9
+2014,320,363,4,Female,White,6
+2014,320,363,5,Female,White,4
+2014,320,363,0,Female,White,12
+2014,320,364,1,Female,White,18
+2014,320,364,2,Female,White,20
+2014,320,364,3,Female,White,14
+2014,320,364,4,Female,White,19
+2014,320,364,5,Female,White,14
+2014,320,364,0,Female,White,21
+2014,320,365,10,Female,White,55
+2014,320,365,11,Female,White,42
+2014,320,365,12,Female,White,58
+2014,320,365,9,Female,White,51
+2014,320,366,6,Female,White,34
+2014,320,366,7,Female,White,22
+2014,320,366,8,Female,White,29
+2014,320,367,2,Female,White,1
+2014,320,367,0,Female,White,2
+2014,320,368,10,Female,White,3
+2014,320,368,11,Female,White,2
+2014,320,368,12,Female,White,3
+2014,320,368,9,Female,White,3
+2014,320,369,1,Female,White,12
+2014,320,369,2,Female,White,11
+2014,320,369,3,Female,White,9
+2014,320,369,4,Female,White,7
+2014,320,369,5,Female,White,8
+2014,320,369,0,Female,White,8
+2014,320,370,6,Female,White,17
+2014,320,370,7,Female,White,16
+2014,320,370,8,Female,White,11
+2014,320,372,1,Female,White,3
+2014,320,372,2,Female,White,7
+2014,320,372,3,Female,White,5
+2014,320,372,4,Female,White,2
+2014,320,372,5,Female,White,4
+2014,320,372,0,Female,White,11
+2014,320,374,1,Female,White,1
+2014,320,374,5,Female,White,1
+2014,320,374,0,Female,White,1
+2014,320,376,1,Female,White,7
+2014,320,376,2,Female,White,7
+2014,320,376,3,Female,White,7
+2014,320,376,4,Female,White,11
+2014,320,376,5,Female,White,11
+2014,320,376,0,Female,White,15
+2014,320,388,2,Female,White,1
+2014,320,388,4,Female,White,2
+2014,320,388,0,Female,White,3
+2014,320,400,1,Female,White,3
+2014,320,400,2,Female,White,3
+2014,320,400,4,Female,White,2
+2014,320,400,5,Female,White,3
+2014,320,700,9,Female,White,1
+2014,320,701,11,Female,White,2
+2014,32A,000,1,Female,White,1
+2014,32A,000,3,Female,White,1
+2014,32A,000,6,Female,White,1
+2014,32A,000,0,Female,White,1
+2014,32B,000,5,Female,White,1
+2014,32D,000,1,Female,White,13
+2014,32D,000,2,Female,White,11
+2014,32D,000,3,Female,White,12
+2014,32D,000,4,Female,White,18
+2014,32D,000,5,Female,White,11
+2014,32D,000,6,Female,White,23
+2014,32D,000,7,Female,White,17
+2014,32D,000,8,Female,White,16
+2014,32D,000,9,Female,White,10
+2014,32D,000,10,Female,White,8
+2014,32D,000,11,Female,White,3
+2014,32D,000,12,Female,White,5
+2014,32D,000,0,Female,White,22
+2014,32H,000,1,Female,White,1
+2014,32H,000,2,Female,White,4
+2014,32H,000,3,Female,White,3
+2014,32H,000,4,Female,White,1
+2014,32H,000,5,Female,White,1
+2014,32H,000,6,Female,White,1
+2014,32H,000,7,Female,White,4
+2014,32H,000,8,Female,White,2
+2014,32H,000,0,Female,White,2
+2014,32K,000,1,Female,White,15
+2014,32K,000,2,Female,White,22
+2014,32K,000,3,Female,White,15
+2014,32K,000,4,Female,White,17
+2014,32K,000,5,Female,White,17
+2014,32K,000,0,Female,White,25
+2014,32L,000,1,Female,White,41
+2014,32L,000,2,Female,White,44
+2014,32L,000,3,Female,White,44
+2014,32L,000,4,Female,White,35
+2014,32L,000,5,Female,White,27
+2014,32L,000,6,Female,White,33
+2014,32L,000,7,Female,White,45
+2014,32L,000,8,Female,White,41
+2014,32L,000,9,Female,White,34
+2014,32L,000,10,Female,White,43
+2014,32L,000,11,Female,White,33
+2014,32L,000,12,Female,White,27
+2014,32L,000,0,Female,White,32
+2014,32M,000,1,Female,White,1
+2014,32M,000,6,Female,White,1
+2014,32N,000,9,Female,White,23
+2014,32N,000,10,Female,White,22
+2014,32P,000,0,Female,White,1
+2014,320,304,1,Male,Two or More,1
+2014,320,304,2,Male,Two or More,2
+2014,320,304,3,Male,Two or More,2
+2014,320,304,5,Male,Two or More,4
+2014,320,304,0,Male,Two or More,2
+2014,320,306,6,Male,Two or More,1
+2014,320,306,7,Male,Two or More,2
+2014,320,306,8,Male,Two or More,4
+2014,320,308,1,Male,Two or More,1
+2014,320,308,2,Male,Two or More,2
+2014,320,308,3,Male,Two or More,1
+2014,320,308,4,Male,Two or More,2
+2014,320,308,5,Male,Two or More,1
+2014,320,309,10,Male,Two or More,2
+2014,320,309,12,Male,Two or More,1
+2014,320,310,1,Male,Two or More,4
+2014,320,310,2,Male,Two or More,2
+2014,320,310,4,Male,Two or More,2
+2014,320,310,0,Male,Two or More,2
+2014,320,312,10,Male,Two or More,7
+2014,320,312,11,Male,Two or More,7
+2014,320,312,12,Male,Two or More,6
+2014,320,312,9,Male,Two or More,6
+2014,320,313,2,Male,Two or More,1
+2014,320,313,3,Male,Two or More,1
+2014,320,313,4,Male,Two or More,2
+2014,320,313,0,Male,Two or More,1
+2014,320,314,6,Male,Two or More,3
+2014,320,314,7,Male,Two or More,2
+2014,320,314,9,Male,Two or More,1
+2014,320,315,1,Male,Two or More,1
+2014,320,315,3,Male,Two or More,1
+2014,320,315,4,Male,Two or More,3
+2014,320,315,5,Male,Two or More,1
+2014,320,316,6,Male,Two or More,7
+2014,320,316,7,Male,Two or More,12
+2014,320,316,8,Male,Two or More,10
+2014,320,317,10,Male,Two or More,1
+2014,320,317,11,Male,Two or More,1
+2014,320,317,12,Male,Two or More,1
+2014,320,318,1,Male,Two or More,3
+2014,320,318,2,Male,Two or More,2
+2014,320,318,3,Male,Two or More,1
+2014,320,318,4,Male,Two or More,3
+2014,320,318,5,Male,Two or More,3
+2014,320,318,0,Male,Two or More,1
+2014,320,319,1,Male,Two or More,1
+2014,320,319,2,Male,Two or More,5
+2014,320,319,3,Male,Two or More,3
+2014,320,319,4,Male,Two or More,4
+2014,320,319,5,Male,Two or More,5
+2014,320,319,0,Male,Two or More,2
+2014,320,320,1,Male,Two or More,2
+2014,320,320,2,Male,Two or More,2
+2014,320,320,3,Male,Two or More,1
+2014,320,320,4,Male,Two or More,1
+2014,320,320,5,Male,Two or More,5
+2014,320,320,0,Male,Two or More,2
+2014,320,323,10,Male,Two or More,3
+2014,320,323,11,Male,Two or More,3
+2014,320,323,12,Male,Two or More,9
+2014,320,323,7,Male,Two or More,3
+2014,320,323,8,Male,Two or More,5
+2014,320,323,9,Male,Two or More,3
+2014,320,324,2,Male,Two or More,2
+2014,320,324,3,Male,Two or More,1
+2014,320,324,4,Male,Two or More,3
+2014,320,324,5,Male,Two or More,2
+2014,320,324,0,Male,Two or More,1
+2014,320,325,10,Male,Two or More,5
+2014,320,325,11,Male,Two or More,1
+2014,320,325,12,Male,Two or More,2
+2014,320,325,9,Male,Two or More,2
+2014,320,327,1,Male,Two or More,1
+2014,320,327,2,Male,Two or More,1
+2014,320,327,3,Male,Two or More,3
+2014,320,327,4,Male,Two or More,5
+2014,320,327,5,Male,Two or More,2
+2014,320,327,0,Male,Two or More,3
+2014,320,328,1,Male,Two or More,1
+2014,320,328,2,Male,Two or More,1
+2014,320,328,0,Male,Two or More,2
+2014,320,332,1,Male,Two or More,3
+2014,320,332,2,Male,Two or More,3
+2014,320,332,3,Male,Two or More,2
+2014,320,332,4,Male,Two or More,1
+2014,320,332,5,Male,Two or More,3
+2014,320,336,2,Male,Two or More,1
+2014,320,336,5,Male,Two or More,
+2014,320,336,6,Male,Two or More,1
+2014,320,338,7,Male,Two or More,1
+2014,320,339,2,Male,Two or More,1
+2014,320,339,3,Male,Two or More,2
+2014,320,339,5,Male,Two or More,1
+2014,320,339,0,Male,Two or More,2
+2014,320,340,1,Male,Two or More,1
+2014,320,340,2,Male,Two or More,2
+2014,320,340,3,Male,Two or More,2
+2014,320,340,5,Male,Two or More,1
+2014,320,340,0,Male,Two or More,1
+2014,320,341,8,Male,Two or More,1
+2014,320,342,6,Male,Two or More,2
+2014,320,342,7,Male,Two or More,3
+2014,320,342,8,Male,Two or More,1
+2014,320,343,6,Male,Two or More,1
+2014,320,343,7,Male,Two or More,3
+2014,320,343,8,Male,Two or More,6
+2014,320,344,1,Male,Two or More,2
+2014,320,344,2,Male,Two or More,1
+2014,320,346,6,Male,Two or More,2
+2014,320,346,7,Male,Two or More,3
+2014,320,346,8,Male,Two or More,5
+2014,320,347,2,Male,Two or More,3
+2014,320,347,3,Male,Two or More,1
+2014,320,347,4,Male,Two or More,4
+2014,320,347,0,Male,Two or More,2
+2014,320,348,3,Male,Two or More,1
+2014,320,348,4,Male,Two or More,1
+2014,320,348,5,Male,Two or More,1
+2014,320,348,0,Male,Two or More,1
+2014,320,352,2,Male,Two or More,2
+2014,320,352,4,Male,Two or More,3
+2014,320,352,5,Male,Two or More,2
+2014,320,353,11,Male,Two or More,3
+2014,320,353,12,Male,Two or More,4
+2014,320,354,1,Male,Two or More,2
+2014,320,354,2,Male,Two or More,1
+2014,320,354,3,Male,Two or More,1
+2014,320,354,4,Male,Two or More,1
+2014,320,355,6,Male,Two or More,6
+2014,320,355,7,Male,Two or More,1
+2014,320,355,8,Male,Two or More,4
+2014,320,356,10,Male,Two or More,11
+2014,320,356,11,Male,Two or More,8
+2014,320,356,12,Male,Two or More,5
+2014,320,356,9,Male,Two or More,4
+2014,320,360,1,Male,Two or More,1
+2014,320,360,2,Male,Two or More,2
+2014,320,360,3,Male,Two or More,3
+2014,320,360,4,Male,Two or More,4
+2014,320,360,5,Male,Two or More,2
+2014,320,360,0,Male,Two or More,1
+2014,320,362,1,Male,Two or More,5
+2014,320,362,2,Male,Two or More,3
+2014,320,362,4,Male,Two or More,1
+2014,320,362,5,Male,Two or More,3
+2014,320,362,0,Male,Two or More,2
+2014,320,363,3,Male,Two or More,1
+2014,320,363,4,Male,Two or More,3
+2014,320,363,5,Male,Two or More,1
+2014,320,363,0,Male,Two or More,1
+2014,320,364,1,Male,Two or More,8
+2014,320,364,2,Male,Two or More,1
+2014,320,364,3,Male,Two or More,3
+2014,320,364,4,Male,Two or More,6
+2014,320,364,5,Male,Two or More,3
+2014,320,364,0,Male,Two or More,2
+2014,320,365,10,Male,Two or More,8
+2014,320,365,11,Male,Two or More,9
+2014,320,365,12,Male,Two or More,1
+2014,320,365,9,Male,Two or More,9
+2014,320,366,6,Male,Two or More,2
+2014,320,366,7,Male,Two or More,10
+2014,320,366,8,Male,Two or More,8
+2014,320,367,3,Male,Two or More,2
+2014,320,367,5,Male,Two or More,1
+2014,320,368,10,Male,Two or More,2
+2014,320,368,11,Male,Two or More,3
+2014,320,368,12,Male,Two or More,2
+2014,320,369,1,Male,Two or More,7
+2014,320,369,2,Male,Two or More,3
+2014,320,369,3,Male,Two or More,2
+2014,320,369,4,Male,Two or More,5
+2014,320,369,5,Male,Two or More,1
+2014,320,369,0,Male,Two or More,2
+2014,320,370,6,Male,Two or More,5
+2014,320,370,7,Male,Two or More,2
+2014,320,370,8,Male,Two or More,2
+2014,320,372,1,Male,Two or More,2
+2014,320,372,2,Male,Two or More,4
+2014,320,372,3,Male,Two or More,2
+2014,320,372,4,Male,Two or More,1
+2014,320,372,5,Male,Two or More,1
+2014,320,376,3,Male,Two or More,3
+2014,320,376,5,Male,Two or More,1
+2014,320,376,0,Male,Two or More,2
+2014,320,388,4,Male,Two or More,1
+2014,320,388,5,Male,Two or More,1
+2014,320,388,0,Male,Two or More,2
+2014,320,400,2,Male,Two or More,4
+2014,320,400,3,Male,Two or More,3
+2014,320,400,4,Male,Two or More,2
+2014,320,400,5,Male,Two or More,2
+2014,320,400,0,Male,Two or More,2
+2014,320,700,12,Male,Two or More,3
+2014,320,700,9,Male,Two or More,2
+2014,320,701,11,Male,Two or More,1
+2014,32A,000,1,Male,Two or More,2
+2014,32A,000,4,Male,Two or More,1
+2014,32A,000,5,Male,Two or More,1
+2014,32B,000,1,Male,Two or More,1
+2014,32B,000,0,Male,Two or More,1
+2014,32D,000,1,Male,Two or More,3
+2014,32D,000,2,Male,Two or More,1
+2014,32D,000,3,Male,Two or More,1
+2014,32D,000,4,Male,Two or More,5
+2014,32D,000,6,Male,Two or More,2
+2014,32D,000,7,Male,Two or More,6
+2014,32D,000,9,Male,Two or More,2
+2014,32D,000,10,Male,Two or More,1
+2014,32D,000,11,Male,Two or More,1
+2014,32D,000,12,Male,Two or More,1
+2014,32D,000,0,Male,Two or More,2
+2014,32H,000,2,Male,Two or More,1
+2014,32H,000,3,Male,Two or More,3
+2014,32H,000,4,Male,Two or More,2
+2014,32H,000,7,Male,Two or More,1
+2014,32K,000,1,Male,Two or More,2
+2014,32K,000,2,Male,Two or More,3
+2014,32K,000,4,Male,Two or More,2
+2014,32K,000,0,Male,Two or More,6
+2014,32L,000,2,Male,Two or More,2
+2014,32L,000,3,Male,Two or More,2
+2014,32L,000,4,Male,Two or More,1
+2014,32L,000,5,Male,Two or More,2
+2014,32L,000,6,Male,Two or More,2
+2014,32L,000,0,Male,Two or More,4
+2014,32M,000,0,Male,Two or More,1
+2014,32N,000,9,Male,Two or More,5
+2014,32N,000,10,Male,Two or More,2
+2014,320,304,3,Female,Two or More,1
+2014,320,304,4,Female,Two or More,2
+2014,320,304,5,Female,Two or More,1
+2014,320,304,0,Female,Two or More,1
+2014,320,306,6,Female,Two or More,3
+2014,320,306,7,Female,Two or More,6
+2014,320,306,8,Female,Two or More,6
+2014,320,308,1,Female,Two or More,1
+2014,320,308,3,Female,Two or More,1
+2014,320,308,0,Female,Two or More,1
+2014,320,309,10,Female,Two or More,1
+2014,320,309,11,Female,Two or More,1
+2014,320,309,12,Female,Two or More,1
+2014,320,310,1,Female,Two or More,2
+2014,320,310,2,Female,Two or More,1
+2014,320,310,3,Female,Two or More,2
+2014,320,310,5,Female,Two or More,2
+2014,320,310,0,Female,Two or More,1
+2014,320,312,10,Female,Two or More,10
+2014,320,312,11,Female,Two or More,5
+2014,320,312,12,Female,Two or More,4
+2014,320,312,9,Female,Two or More,5
+2014,320,313,2,Female,Two or More,3
+2014,320,313,3,Female,Two or More,2
+2014,320,313,4,Female,Two or More,1
+2014,320,314,6,Female,Two or More,2
+2014,320,314,7,Female,Two or More,2
+2014,320,315,1,Female,Two or More,1
+2014,320,315,2,Female,Two or More,3
+2014,320,315,3,Female,Two or More,2
+2014,320,315,4,Female,Two or More,1
+2014,320,315,0,Female,Two or More,1
+2014,320,316,6,Female,Two or More,5
+2014,320,316,7,Female,Two or More,2
+2014,320,316,8,Female,Two or More,8
+2014,320,317,10,Female,Two or More,2
+2014,320,317,11,Female,Two or More,3
+2014,320,317,12,Female,Two or More,1
+2014,320,317,9,Female,Two or More,2
+2014,320,318,1,Female,Two or More,2
+2014,320,318,2,Female,Two or More,2
+2014,320,318,3,Female,Two or More,1
+2014,320,318,4,Female,Two or More,1
+2014,320,318,5,Female,Two or More,2
+2014,320,319,1,Female,Two or More,4
+2014,320,319,2,Female,Two or More,2
+2014,320,319,3,Female,Two or More,5
+2014,320,319,4,Female,Two or More,1
+2014,320,319,5,Female,Two or More,4
+2014,320,320,1,Female,Two or More,1
+2014,320,320,3,Female,Two or More,1
+2014,320,320,4,Female,Two or More,2
+2014,320,320,5,Female,Two or More,1
+2014,320,320,0,Female,Two or More,1
+2014,320,322,10,Female,Two or More,1
+2014,320,322,11,Female,Two or More,1
+2014,320,322,12,Female,Two or More,1
+2014,320,323,10,Female,Two or More,7
+2014,320,323,11,Female,Two or More,4
+2014,320,323,12,Female,Two or More,3
+2014,320,323,6,Female,Two or More,6
+2014,320,323,7,Female,Two or More,9
+2014,320,323,8,Female,Two or More,5
+2014,320,323,9,Female,Two or More,5
+2014,320,324,2,Female,Two or More,2
+2014,320,324,3,Female,Two or More,3
+2014,320,324,4,Female,Two or More,3
+2014,320,324,5,Female,Two or More,1
+2014,320,325,10,Female,Two or More,3
+2014,320,325,11,Female,Two or More,6
+2014,320,325,12,Female,Two or More,7
+2014,320,325,9,Female,Two or More,5
+2014,320,327,1,Female,Two or More,4
+2014,320,327,2,Female,Two or More,2
+2014,320,327,3,Female,Two or More,2
+2014,320,327,4,Female,Two or More,1
+2014,320,327,5,Female,Two or More,1
+2014,320,327,0,Female,Two or More,3
+2014,320,328,2,Female,Two or More,1
+2014,320,328,0,Female,Two or More,5
+2014,320,332,1,Female,Two or More,5
+2014,320,332,3,Female,Two or More,3
+2014,320,332,4,Female,Two or More,3
+2014,320,332,5,Female,Two or More,3
+2014,320,336,1,Female,Two or More,
+2014,320,336,3,Female,Two or More,
+2014,320,336,4,Female,Two or More,
+2014,320,336,7,Female,Two or More,1
+2014,320,336,0,Female,Two or More,1
+2014,320,338,7,Female,Two or More,1
+2014,320,338,8,Female,Two or More,1
+2014,320,339,1,Female,Two or More,1
+2014,320,339,4,Female,Two or More,2
+2014,320,339,5,Female,Two or More,2
+2014,320,340,1,Female,Two or More,3
+2014,320,340,2,Female,Two or More,1
+2014,320,340,3,Female,Two or More,1
+2014,320,340,0,Female,Two or More,1
+2014,320,341,12,Female,Two or More,
+2014,320,342,6,Female,Two or More,7
+2014,320,342,7,Female,Two or More,2
+2014,320,342,8,Female,Two or More,1
+2014,320,343,6,Female,Two or More,4
+2014,320,343,7,Female,Two or More,2
+2014,320,343,8,Female,Two or More,2
+2014,320,344,2,Female,Two or More,1
+2014,320,344,3,Female,Two or More,1
+2014,320,346,6,Female,Two or More,2
+2014,320,346,7,Female,Two or More,1
+2014,320,346,8,Female,Two or More,1
+2014,320,347,1,Female,Two or More,1
+2014,320,347,2,Female,Two or More,3
+2014,320,347,3,Female,Two or More,5
+2014,320,347,4,Female,Two or More,2
+2014,320,347,5,Female,Two or More,2
+2014,320,347,0,Female,Two or More,1
+2014,320,348,2,Female,Two or More,1
+2014,320,348,3,Female,Two or More,1
+2014,320,348,4,Female,Two or More,1
+2014,320,348,5,Female,Two or More,1
+2014,320,348,0,Female,Two or More,1
+2014,320,352,1,Female,Two or More,1
+2014,320,352,3,Female,Two or More,2
+2014,320,352,4,Female,Two or More,1
+2014,320,352,5,Female,Two or More,1
+2014,320,353,11,Female,Two or More,1
+2014,320,353,12,Female,Two or More,1
+2014,320,354,1,Female,Two or More,2
+2014,320,354,5,Female,Two or More,2
+2014,320,355,6,Female,Two or More,3
+2014,320,355,7,Female,Two or More,1
+2014,320,355,8,Female,Two or More,6
+2014,320,356,10,Female,Two or More,9
+2014,320,356,11,Female,Two or More,6
+2014,320,356,12,Female,Two or More,7
+2014,320,356,9,Female,Two or More,12
+2014,320,360,1,Female,Two or More,2
+2014,320,360,3,Female,Two or More,2
+2014,320,360,4,Female,Two or More,3
+2014,320,360,5,Female,Two or More,1
+2014,320,362,1,Female,Two or More,4
+2014,320,362,2,Female,Two or More,2
+2014,320,362,4,Female,Two or More,5
+2014,320,362,5,Female,Two or More,3
+2014,320,362,0,Female,Two or More,2
+2014,320,363,1,Female,Two or More,4
+2014,320,363,2,Female,Two or More,1
+2014,320,363,3,Female,Two or More,4
+2014,320,363,4,Female,Two or More,2
+2014,320,363,0,Female,Two or More,2
+2014,320,364,1,Female,Two or More,3
+2014,320,364,2,Female,Two or More,1
+2014,320,364,3,Female,Two or More,2
+2014,320,364,4,Female,Two or More,2
+2014,320,364,5,Female,Two or More,3
+2014,320,364,0,Female,Two or More,5
+2014,320,365,10,Female,Two or More,7
+2014,320,365,11,Female,Two or More,13
+2014,320,365,12,Female,Two or More,2
+2014,320,365,9,Female,Two or More,15
+2014,320,366,6,Female,Two or More,2
+2014,320,366,7,Female,Two or More,1
+2014,320,366,8,Female,Two or More,8
+2014,320,367,1,Female,Two or More,2
+2014,320,367,4,Female,Two or More,1
+2014,320,367,5,Female,Two or More,3
+2014,320,368,10,Female,Two or More,1
+2014,320,368,11,Female,Two or More,1
+2014,320,368,12,Female,Two or More,1
+2014,320,368,9,Female,Two or More,4
+2014,320,369,1,Female,Two or More,6
+2014,320,369,2,Female,Two or More,1
+2014,320,369,3,Female,Two or More,5
+2014,320,369,4,Female,Two or More,1
+2014,320,369,5,Female,Two or More,1
+2014,320,369,0,Female,Two or More,3
+2014,320,370,6,Female,Two or More,6
+2014,320,370,7,Female,Two or More,5
+2014,320,370,8,Female,Two or More,3
+2014,320,372,1,Female,Two or More,2
+2014,320,372,2,Female,Two or More,3
+2014,320,372,3,Female,Two or More,3
+2014,320,372,4,Female,Two or More,2
+2014,320,372,5,Female,Two or More,1
+2014,320,372,0,Female,Two or More,3
+2014,320,374,2,Female,Two or More,1
+2014,320,376,1,Female,Two or More,3
+2014,320,376,3,Female,Two or More,1
+2014,320,376,4,Female,Two or More,1
+2014,320,376,5,Female,Two or More,3
+2014,320,376,0,Female,Two or More,2
+2014,320,388,1,Female,Two or More,2
+2014,320,388,2,Female,Two or More,1
+2014,320,388,3,Female,Two or More,2
+2014,320,388,4,Female,Two or More,1
+2014,320,388,5,Female,Two or More,1
+2014,320,388,0,Female,Two or More,1
+2014,320,400,1,Female,Two or More,2
+2014,320,400,3,Female,Two or More,1
+2014,320,400,4,Female,Two or More,2
+2014,320,400,5,Female,Two or More,4
+2014,320,700,10,Female,Two or More,1
+2014,320,701,10,Female,Two or More,2
+2014,32A,000,2,Female,Two or More,1
+2014,32C,000,1,Female,Two or More,1
+2014,32D,000,1,Female,Two or More,1
+2014,32D,000,3,Female,Two or More,1
+2014,32D,000,5,Female,Two or More,2
+2014,32D,000,6,Female,Two or More,1
+2014,32D,000,7,Female,Two or More,3
+2014,32D,000,8,Female,Two or More,4
+2014,32D,000,9,Female,Two or More,1
+2014,32D,000,10,Female,Two or More,2
+2014,32D,000,11,Female,Two or More,4
+2014,32D,000,12,Female,Two or More,1
+2014,32H,000,1,Female,Two or More,1
+2014,32H,000,2,Female,Two or More,3
+2014,32H,000,3,Female,Two or More,1
+2014,32H,000,4,Female,Two or More,1
+2014,32H,000,5,Female,Two or More,2
+2014,32H,000,7,Female,Two or More,1
+2014,32H,000,0,Female,Two or More,1
+2014,32K,000,2,Female,Two or More,2
+2014,32K,000,4,Female,Two or More,1
+2014,32K,000,5,Female,Two or More,3
+2014,32K,000,0,Female,Two or More,1
+2014,32L,000,1,Female,Two or More,1
+2014,32L,000,2,Female,Two or More,4
+2014,32L,000,3,Female,Two or More,4
+2014,32L,000,4,Female,Two or More,1
+2014,32L,000,5,Female,Two or More,3
+2014,32L,000,8,Female,Two or More,1
+2014,32L,000,9,Female,Two or More,2
+2014,32L,000,11,Female,Two or More,1
+2014,32L,000,0,Female,Two or More,4
+2014,32M,000,2,Female,Two or More,1
+2014,32M,000,4,Female,Two or More,1
+2014,32M,000,5,Female,Two or More,2
+2014,32N,000,9,Female,Two or More,5
+2014,32N,000,10,Female,Two or More,3
+2014,320,306,6,Male,Pacific Islander,1
+2014,320,306,7,Male,Pacific Islander,1
+2014,320,306,8,Male,Pacific Islander,1
+2014,320,312,10,Male,Pacific Islander,3
+2014,320,312,11,Male,Pacific Islander,1
+2014,320,312,12,Male,Pacific Islander,1
+2014,320,312,9,Male,Pacific Islander,1
+2014,320,320,4,Male,Pacific Islander,1
+2014,320,320,5,Male,Pacific Islander,1
+2014,320,324,3,Male,Pacific Islander,1
+2014,320,336,5,Male,Pacific Islander,
+2014,320,346,7,Male,Pacific Islander,1
+2014,320,363,2,Male,Pacific Islander,1
+2014,320,366,7,Male,Pacific Islander,1
+2014,320,369,3,Male,Pacific Islander,1
+2014,320,376,2,Male,Pacific Islander,1
+2014,320,701,9,Male,Pacific Islander,1
+2014,32D,000,8,Male,Pacific Islander,1
+2014,32D,000,11,Male,Pacific Islander,1
+2014,32K,000,1,Male,Pacific Islander,1
+2014,32L,000,4,Male,Pacific Islander,1
+2014,320,306,6,Female,Pacific Islander,2
+2014,320,316,6,Female,Pacific Islander,1
+2014,320,317,9,Female,Pacific Islander,1
+2014,320,320,5,Female,Pacific Islander,1
+2014,320,322,10,Female,Pacific Islander,1
+2014,320,323,11,Female,Pacific Islander,1
+2014,320,323,12,Female,Pacific Islander,1
+2014,320,323,6,Female,Pacific Islander,1
+2014,320,327,0,Female,Pacific Islander,1
+2014,320,332,1,Female,Pacific Islander,1
+2014,320,332,3,Female,Pacific Islander,1
+2014,320,332,5,Female,Pacific Islander,2
+2014,320,336,1,Female,Pacific Islander,
+2014,320,336,3,Female,Pacific Islander,
+2014,320,336,4,Female,Pacific Islander,
+2014,320,341,12,Female,Pacific Islander,
+2014,320,343,6,Female,Pacific Islander,2
+2014,320,356,11,Female,Pacific Islander,1
+2014,320,368,9,Female,Pacific Islander,1
+2014,32D,000,2,Female,Pacific Islander,1
+2014,32D,000,8,Female,Pacific Islander,1
+2014,32D,000,9,Female,Pacific Islander,1
+2014,32H,000,4,Female,Pacific Islander,1
+2014,32K,000,0,Female,Pacific Islander,1
